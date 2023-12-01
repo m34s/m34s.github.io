@@ -1,0 +1,48 @@
+/*index*/
+#list ul {
+  padding: 0 0 0.4rem;
+  list-style: none;
+  text-align: center;
+}
+
+/*result*/
+#comment {
+  text-align: center;
+}
+.team {
+  margin-top: 1.6rem;
+}
+.team_head {
+  font-weight: 700;
+}
+.team_head,
+.player {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+.rank {
+  width: 3.2rem;
+}
+#first {
+  color: #b59b07;
+}
+#second {
+  color: #666;
+}
+#third {
+  color: #a0522d;
+}
+.tag {
+  width: 10.8rem;
+}
+.sum {
+  width: 4.8rem;
+}
+.name {
+  padding: 0 0 0 3.2rem;
+  width: 10.8rem;
+}
+.points {
+  width: 4.8rem;
+}

@@ -1,0 +1,308 @@
+[
+  {
+    "title": "MKCentral SUMMIT 3v3 #14",
+    "title_shorter": "3v3 #14",
+    "id": "c3014",
+    "author": "MKCentral",
+    "format": 3,
+    "date": "2023-11-26",
+    "finals": {
+      "first": {
+        "tag": "アッカーマン",
+        "points": "260",
+        "players": [
+          {
+            "id": "2290",
+            "points": 65
+          },
+          {
+            "id": "3997",
+            "points": 64
+          },
+          {
+            "id": "3816",
+            "points": 131
+          }
+        ]
+      },
+      "second": {
+        "tag": "eon",
+        "points": "253",
+        "players": [
+          {
+            "id": "23d2",
+            "points": 88
+          },
+          {
+            "id": "2da6",
+            "points": 68
+          },
+          {
+            "id": "24c2",
+            "points": 97
+          }
+        ]
+      },
+      "third": {
+        "tag": "dikos",
+        "points": "236",
+        "players": [
+          {
+            "id": "4415",
+            "points": 76
+          },
+          {
+            "id": "3fef",
+            "points": 84
+          },
+          {
+            "id": "3078",
+            "points": 76
+          }
+        ]
+      },
+      "fourth": {
+        "tag": "__",
+        "points": "235",
+        "players": [
+          {
+            "id": "20db",
+            "points": 69
+          },
+          {
+            "id": "3361",
+            "points": 78
+          },
+          {
+            "id": "4daf",
+            "points": 88
+          }
+        ]
+      }
+    }
+  },
+  {
+    "title": "MKCentral SUMMIT 2v2 #14",
+    "title_shorter": "2v2 #14",
+    "id": "c2014",
+    "author": "MKCentral",
+    "format": 2,
+    "date": "2023-11-12",
+    "finals": {
+      "first": {
+        "tag": "_MK",
+        "points": 206,
+        "players": [
+          {
+            "id": "2ac7",
+            "points": 127
+          },
+          {
+            "id": "3eee",
+            "points": 79
+          }
+        ]
+      },
+      "second": {
+        "tag": "zaru",
+        "points": 192,
+        "players": [
+          {
+            "id": "3361",
+            "points": 109
+          },
+          {
+            "id": "8d92",
+            "points": 83
+          }
+        ]
+      },
+      "third": {
+        "tag": "RR",
+        "points": 177,
+        "players": [
+          {
+            "id": "3379",
+            "points": 96
+          },
+          {
+            "id": "2ff6",
+            "points": 81
+          }
+        ]
+      },
+      "fourth": {
+        "tag": "Ga",
+        "points": 160,
+        "players": [
+          {
+            "id": "331a",
+            "points": 91
+          },
+          {
+            "id": "420b",
+            "points": 69
+          }
+        ]
+      },
+      "fifth": {
+        "tag": "あおらん",
+        "points": 125,
+        "players": [
+          {
+            "id": "5f7b",
+            "points": 54
+          },
+          {
+            "id": "2c13",
+            "points": 71
+          }
+        ]
+      },
+      "sixth": {
+        "tag": "KI",
+        "points": 124,
+        "players": [
+          {
+            "id": "3bbe",
+            "points": 67
+          },
+          {
+            "id": "2458",
+            "points": 57
+          }
+        ]
+      }
+    }
+  },
+  {
+    "title": "MKCentral SUMMIT FFA #14",
+    "title_shorter": "FFA #14",
+    "id": "c1014",
+    "author": "MKCentral",
+    "format": 1,
+    "date": "2023-10-29",
+    "finals": {
+      "first": {
+        "tag": "Khaenri'ah",
+        "points": 117,
+        "players": [
+          {
+            "id": "2f14",
+            "points": 117
+          }
+        ]
+      },
+      "second": {
+        "tag": "ピカレスク",
+        "points": 102,
+        "players": [
+          {
+            "id": "2ff6",
+            "points": 102
+          }
+        ]
+      },
+      "third": {
+        "tag": "Rampage",
+        "points": 100,
+        "players": [
+          {
+            "id": "2ac7",
+            "points": 100
+          }
+        ]
+      },
+      "fourth": {
+        "tag": "Milotte",
+        "points": 98,
+        "players": [
+          {
+            "id": "506d",
+            "points": 98
+          }
+        ]
+      },
+      "fifth": {
+        "tag": "やまもとゆうた",
+        "points": 97,
+        "players": [
+          {
+            "id": "3361",
+            "points": 97
+          }
+        ]
+      },
+      "sixth": {
+        "tag": "わかものをいじめるな",
+        "points": 91,
+        "players": [
+          {
+            "id": "32c6",
+            "points": 91
+          }
+        ]
+      },
+      "seventh": {
+        "tag": "れっつらぺー！",
+        "points": 79,
+        "players": [
+          {
+            "id": "3f8a",
+            "points": 79
+          }
+        ]
+      },
+      "eighth": {
+        "tag": "newjeans",
+        "points": 77,
+        "players": [
+          {
+            "id": "35e0",
+            "points": 77
+          }
+        ]
+      },
+      "ninth": {
+        "tag": "コウコウまじほんもの",
+        "points": 73,
+        "players": [
+          {
+            "id": "2fa2",
+            "points": 73
+          }
+        ]
+      },
+      "tenth": {
+        "tag": "c",
+        "points": 54,
+        "players": [
+          {
+            "id": "26af",
+            "points": 54
+          }
+        ]
+      },
+      "eleventh": {
+        "tag": "かいりゅう",
+        "points": 53,
+        "players": [
+          {
+            "id": "41c4",
+            "points": 53
+          }
+        ]
+      },
+      "twelfth": {
+        "tag": "しょう4までおむつ",
+        "points": 43,
+        "players": [
+          {
+            "id": "26e5",
+            "points": 43
+          }
+        ]
+      }
+    }
+  }
+]

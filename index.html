@@ -3,30 +3,43 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-  <link rel="stylesheet" href="style.css">
+  <title>そらまめ【マリオカート８ デラックス 大会まとめなど】</title>
+  <link rel="stylesheet" href="/style.css">
+  <script src="/jquery.min.js"></script>
+  <script src="/load.js"></script>
+  <script src="script.js"></script>
 </head>
 <body>
   <header>
-    <h1>
-      <a href="index.html">
-        <img src="https://lh3.googleusercontent.com/pw/ADCreHdOcLa_kJRbL42W435y4qjZMM0-ZpbLfkTyLJmcxvpgb-45um2BQ9QfwtlqG4NvYAg1qB2cZiQ28Y-MujIIaPWpJeT5GFsy-Grhwb91LJIzOKQWk9WhrGN71sHTozE_IbYXPHOavTmu4l9RYecdiO4=w2000-h400-s-no?authuser=0" alt="そらまめ【マリオカート】">
-      </a>
-    </h1>
-    <nav>
-      <div class="menu"><a href="sheets.html">大会実績</a></div>
-      <div class="menu"><a href="links.html">リンク集</a></div>
-      <div class="menu"><a href="mkfc.html">交流サーバー</a></div>
-    </nav>
+    <div id="header"></div>
   </header>
   <main>
-    <article>
-      <h2>新着情報（大会速報など）</h2>
-      <div class="x_timeline">
-        <a class="twitter-timeline" href="https://twitter.com/soramamemk_?ref_src=twsrc%5Etfw">最新情報</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-      </div>
+    <article id="index">
+      <h2>大会予定</h2>
+      <ol id="tournaments">
+        <ul><a href="">12/2, 3 - 第28回タッグ杯</a></ul>
+        <ul><a href="">12/9, 10, 16, 17 - MKWorlds 2023</a></ul>
+        <ul><a href="">12/23, 24 - 第32回個人杯</a></ul>
+      </ol>
+      <h2>直近の大会結果</h2>
+      <ol id="tournaments">
+        <ul><a href="/tournaments/index.html?id=c3014">MKCentral SUMMIT 3v3 #14</a></ul>
+        <ul><a href="/tournaments/index.html?id=c2014">MKCentral SUMMIT 2v2 #14</a></ul>
+        <ul><a href="/tournaments/index.html?id=c1014">MKCentral SUMMIT FFA #14</a></ul>
+      </ol>
+      <p>→<a href="/tournaments/index.html">以前の大会結果</a></p>
+      <h2>スプレッドシート</h2>
+      <p> 大会結果まとめスプレッドシートはこちら</p>
+      <p>→<a href="https://docs.google.com/spreadsheets/d/1TYOqrMSxAFfyvuZ07Sv3jKPvsTu_oxI15Ir7sJtkj4k/edit#gid=1143433">MK8DX Players 2023</a></p>
+      <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS8aYIZHrG0NXmDd81UzPqMjsbqBJ6ltPB_e49o2RU-ALhnUVQuydQtMpOX_dHjmdnBRLsY_prfhZ9V/pubhtml?gid=1143433019&single=false&widget=false&headers=false&chrome=false"></iframe>
+      <br>
+      <h2>サイトについて</h2>
+      <p>このサイトは「マリオカート８ デラックス」の大会結果やその他情報について個人が<b>非公式</b>にまとめたものです。何か不明な点や指摘等がありましたら以下の連絡先にお願いいたします。</p>
+      <p><a href="https://twitter.com/soramamemk_" target="_blank" rel="noopener noreferrer">X(Twitter)</a><a href="https://discordapp.com/users/977483751347085413"  target="_blank" rel="noopener noreferrer">Discord</a></p>
     </article>
   </main>
-  <footer></footer>
+  <footer>
+    <div id="footer"></div>
+  </footer>
 </body>
 </html>
