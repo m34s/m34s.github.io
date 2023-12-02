@@ -43,12 +43,13 @@ $(function () {
       const tnmId = getP(param, 'id');
       const index = tnm.findIndex(({ id }) => id === tnmId);
       if (index === -1) {
-        let htmlText = '<ol>';
+        let htmlText = '<ul>';
         for (let i in tnm) {
-          const date = tnm[i].date.split('-');
-          htmlText += `<ul><a href="index.html?id=${tnm[i].id}">${Number(date[1])}/${Number(date[2])} - ${tnm[i].title}</a></ul>`
+          const date = tnm[i].date.split('-');;
+          const title = tnm[i].title.replace('MKCentral ', '');
+          htmlText += `<li><a href="index.html?id=${tnm[i].id}">${Number(date[1])}/${Number(date[2])} - ${title}</a></li>`
         }
-        htmlText += '</ol>';
+        htmlText += '</ul>';
         $('h2#title').html('決勝結果一覧');
         $('div#list').html(htmlText);
       } else {
@@ -62,11 +63,18 @@ $(function () {
         const date = `${year}年${month}月${day}日`
         const url = data.url;
         let text = '';
+        let sum = 0;
+        let rankEng = '';
+        let rank = '';
         for (let i in data.finals) {
-          const rank = rankParse(i);
           const team = data.finals[i];
           const tag = team.tag;
           let detail = '';
+          if (sum !== team.points) {
+            rankEng = i;
+            rank = rankParse(i);
+          }
+          sum = team.points;
           for (let j in team.players) {
             const player = team.players[j];
             const playerName = getPlayerName(plyr, player.id);
@@ -83,8 +91,7 @@ $(function () {
             }
             detail += `<div class="player">${playerNameText}<div class="points">${playerPointsText}</div></div>`
           }
-          const sum = team.points;
-          text += `<div class="team" id="${i}"><div class="team_head" id=${i}><div class="rank">${rank}</div><div class="tag">${tag}</div><div class="sum">${sum}pts</div></div></div>${detail}</div>`;
+          text += `<div class="team" id="${rankEng}"><div class="team_head" id=${rankEng}><div class="rank">${rank}</div><div class="tag">${tag}</div><div class="sum">${sum}pts</div></div></div>${detail}</div>`;
         }
         $('h2#title').html(title + ' 大会結果');
         $('div#comment').html(`<p>主催は${author}、形式は${format}、決勝日は${date}。</p><p>→<a href="${url}" target="_blank" rel="noopener noreferrer">大会サイト</a></p>`)

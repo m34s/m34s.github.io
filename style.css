@@ -54,11 +54,10 @@ b {
 
 main {
   width: min(720px, 100%);
-  padding-left: calc(50% - min(360px, 50%));
+  margin: 0 calc(50% - min(360px, 50%));
 }
 article {
-  width: calc(100% - 1rem);
-  padding: 0 ;
+  margin: 0 1rem;
 }
 h2 {
   font-weight: 700;
@@ -87,7 +86,7 @@ h2:after {
   right: 0;
 }
 
-#tournaments ul {
+#tournaments li {
   padding: 0 0 0.4rem;
   list-style: none;
   text-align: center;
@@ -107,7 +106,7 @@ h2:after {
 .sns_link {
   margin: 1rem 0;
 }
-.sns_logo {
+img.sns_logo {
   height: 1rem;
   margin: 0 0.5rem;
   vertical-align: middle;
