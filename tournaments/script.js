@@ -46,19 +46,21 @@ $(function () {
         let htmlText = '<ol>';
         for (let i in tnm) {
           const date = tnm[i].date.split('-');
-          htmlText += `<ul><a href="index.html?id=${tnm[i].id}">${tnm[i].title} - ${Number(date[1])}/${Number(date[2])}</a></ul>`
+          htmlText += `<ul><a href="index.html?id=${tnm[i].id}">${Number(date[1])}/${Number(date[2])} - ${tnm[i].title}</a></ul>`
         }
         htmlText += '</ol>';
-        $('h2#title').html('大会結果一覧');
+        $('h2#title').html('決勝結果一覧');
         $('div#list').html(htmlText);
       } else {
         const data = tnm[index];
         console.log(data);
         const title = data.title;
         const author = data.author;
-        const formatList = ['個人(FFA)', 'タッグ(2v2)', 'トリプルス(3v3)', 'フォーマンセル(4v4)', '', 'チーム(6v6)']
-        const format = formatList[data.format - 1];
-        const date = data.date.replace(/-/g, '/');
+        const formatList = ['', '個人(FFA)', 'タッグ(2v2)', 'トリプルス(3v3)', 'フォーマンセル(4v4)', '', 'チーム(6v6)']
+        const format = formatList[data.format];
+        const [year, month, day] = data.date.split('-');
+        const date = `${year}年${month}月${day}日`
+        const url = data.url;
         let text = '';
         for (let i in data.finals) {
           const rank = rankParse(i);
@@ -67,18 +69,25 @@ $(function () {
           let detail = '';
           for (let j in team.players) {
             const player = team.players[j];
+            const playerName = getPlayerName(plyr, player.id);
+            let [playerNameText, playerPointsText] = [];
+            if (playerName === undefined) {
+              playerNameText = `<a class="name" href="">-</a>`;
+            } else {
+              playerNameText = `<a class="name" href="/players/index.html?id=${player.id}">${getPlayerName(plyr, player.id)}</a>`;
+            }
             if (data.format == 1) {
-              detail += `<div class="player"><a class="name" href="/players/index.html?id=${player.id}">${getPlayerName(plyr, player.id)}</a><div class="points"></div></div>`
+              playerPointsText = '';
+            } else {
+              playerPointsText = player.points + 'pts';
             }
-            else {
-              detail += `<div class="player"><a class="name" href="/players/index.html?id=${player.id}">${getPlayerName(plyr, player.id)}</a><div class="points">${player.points}pts</div></div>`
-            }
+            detail += `<div class="player">${playerNameText}<div class="points">${playerPointsText}</div></div>`
           }
           const sum = team.points;
           text += `<div class="team" id="${i}"><div class="team_head" id=${i}><div class="rank">${rank}</div><div class="tag">${tag}</div><div class="sum">${sum}pts</div></div></div>${detail}</div>`;
         }
         $('h2#title').html(title + ' 大会結果');
-        $('div#comment').html(`主催は${author}、形式は${format}、決勝日は${date}。`)
+        $('div#comment').html(`<p>主催は${author}、形式は${format}、決勝日は${date}。</p><p>→<a href="${url}" target="_blank" rel="noopener noreferrer">大会サイト</a></p>`)
         $('div#finals_table').html(text)
       }
     })
