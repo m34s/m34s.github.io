@@ -1,12 +1,19 @@
 /*font*/
-@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@500;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500;700&family=Manrope:wght@500;700;800&display=swap');
 
 *{
   margin: 0;
   padding: 0;
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Inter', sans-serif;
   font-weight: 500;
+  line-height: 1.6em;
 }
+
+h2 {
+  font-family: 'Manrope', sans-serif;
+  font-weight: 700;
+}
+
 body {
   width: 100%;
 }
@@ -49,7 +56,7 @@ b {
 }
 
 #footer {
-  height: 8rem;
+  height: 6rem;
 }
 
 main {
@@ -60,7 +67,6 @@ article {
   margin: 0 1rem;
 }
 h2 {
-  font-weight: 700;
   max-width: 100%;
   position: relative;
   display: inline-block;
