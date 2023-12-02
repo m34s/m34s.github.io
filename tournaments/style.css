@@ -36,13 +36,13 @@
 .tag {
   width: 10.8rem;
 }
-.sum {
-  width: 4.8rem;
+.sum,
+.points {
+  width: 4rem;
+  text-align: right;
+  font-family: 'Inter', sans-serif;
 }
 .name {
   padding: 0 0 0 3.2rem;
   width: 10.8rem;
-}
-.points {
-  width: 4.8rem;
 }
