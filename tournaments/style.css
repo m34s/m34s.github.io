@@ -13,8 +13,12 @@
 #comment {
   text-align: center;
 }
-#finals-table {
+#finals-table-wrapper {
   overflow: auto;
+}
+#finals-table {
+  margin: 0 auto;
+  width: 24.8rem;
 }
 #first {
   color: #b59b07;
@@ -31,8 +35,6 @@
   margin: 1rem 0;
   align-items: center;
   justify-content: center;
-  width: 24.8rem;
-  overflow: auto;
 }
 .team-rank,
 .tag {
