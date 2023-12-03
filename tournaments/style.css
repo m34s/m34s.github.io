@@ -13,6 +13,9 @@
 #comment {
   text-align: center;
 }
+#finals-table {
+  overflow: auto;
+}
 #first {
   color: #b59b07;
 }
@@ -28,6 +31,8 @@
   margin: 1rem 0;
   align-items: center;
   justify-content: center;
+  width: 24.8rem;
+  overflow: auto;
 }
 .team-rank,
 .tag {
@@ -45,6 +50,9 @@
 }
 .player-result span {
   display: inline-block;
+}
+.player-block {
+  width: 13.2rem;
 }
 .name {
   width: 8rem;

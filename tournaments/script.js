@@ -70,11 +70,11 @@ $(function () {
               const pPoints = playerData.points;
               const pRank = playerData.rank;
               const pName = getPlayerName(plyr, pId);
-              playerText += `<div><span class="name">${pName}</span><span class="points">${pPoints}</span><span class="rank">${enRankList[pRank]}</span></div>`
+              playerText += `<div class="player-block"><span class="name">${pName}</span><span class="points">${pPoints}</span><span class="rank">${enRankList[pRank]}</span></div>`
             }
             finalsTableText += `<div class="team-result" id="${rankIdList[tRank]}"><div class="team-rank"><span>${jaRankList[tRank]}</span></div><div class="tag"><span>${tag}</span>${tPointsText}</div><div class="player-result">${playerText}</div></div>`;
           }
-          $('div#finals_table').html(finalsTableText)
+          $('div#finals-table').html(finalsTableText)
         })
       }
     })
