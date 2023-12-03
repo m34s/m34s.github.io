@@ -1,7 +1,7 @@
 /*font*/
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@500;700&family=Manrope:wght@500;700;800&display=swap');
 
-*{
+* {
   margin: 0;
   padding: 0;
   font-family: 'Inter', sans-serif;
@@ -17,17 +17,21 @@ h2 {
 body {
   width: 100%;
 }
+
 a {
   color: #000;
   padding: 0 0.5rem;
 }
+
 a:visited {
   color: #000;
 }
+
 a:hover {
   color: #587823;
   text-decoration: underline;
 }
+
 b {
   font-weight: 700;
   padding: 0.2rem;
@@ -38,18 +42,22 @@ b {
   background-color: #c7e694;
   padding: 1rem calc(50vw - 360px);
 }
+
 #header h1 {
   width: min(400px, 100%);
 }
+
 #header a,
 #header img {
   width: 100%;
   padding: 0;
 }
+
 #header nav {
   display: flex;
   flex-wrap: wrap;
 }
+
 #header nav a {
   padding: 0.25rem 0.5rem;
   text-decoration: none;
@@ -63,9 +71,11 @@ main {
   width: min(720px, 100%);
   margin: 0 calc(50% - min(360px, 50%));
 }
+
 article {
   margin: 0 1rem;
 }
+
 h2 {
   max-width: 100%;
   position: relative;
@@ -76,7 +86,9 @@ h2 {
   padding: 0 5rem;
   transform: translateX(-50%);
 }
-h2:before, h2:after {
+
+h2:before,
+h2:after {
   content: '';
   position: absolute;
   top: 50%;
@@ -85,9 +97,11 @@ h2:before, h2:after {
   height: 0.1rem;
   background-color: black;
 }
+
 h2:before {
   left: 0;
 }
+
 h2:after {
   right: 0;
 }
@@ -112,6 +126,7 @@ h2:after {
 .sns_link {
   margin: 1rem 0;
 }
+
 img.sns_logo {
   height: 1rem;
   margin: 0 0.5rem;

@@ -1,28 +1,17 @@
 /*index*/
-#list li {
-  padding: 0 0 0.4rem;
-  list-style: none;
+#list {
   text-align: center;
+}
+.tournament-block {
+  margin-bottom: 2rem;
+}
+.tournament-title {
+  margin-bottom: 0.25rem;
 }
 
 /*result*/
 #comment {
   text-align: center;
-}
-.team {
-  margin-top: 1.6rem;
-}
-.team_head {
-  font-weight: 700;
-}
-.team_head,
-.player {
-  display: flex;
-  text-align: center;
-  justify-content: center;
-}
-.rank {
-  width: 3.2rem;
 }
 #first {
   color: #b59b07;
@@ -33,16 +22,39 @@
 #third {
   color: #a0522d;
 }
-.tag {
-  width: 10.8rem;
+.team-result {
+  display: flex;
+  border-bottom: solid 0.0625rem;
+  margin: 1rem 0;
+  align-items: center;
+  justify-content: center;
 }
-.sum,
-.points {
-  width: 4rem;
-  text-align: right;
-  font-family: 'Inter', sans-serif;
+.team-rank,
+.tag {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.team-rank {
+  width: 3.6rem;
+}
+.tag {
+  width: 8rem;
+  flex-direction: column;
+  text-align: center;
+}
+.player-result span {
+  display: inline-block;
 }
 .name {
-  padding: 0 0 0 3.2rem;
-  width: 10.8rem;
+  width: 8rem;
+  text-align: center;
+}
+.points {
+  width: 2rem;
+  text-align: center;
+}
+.rank {
+  width: 3.2rem;
+  text-align: center;
 }

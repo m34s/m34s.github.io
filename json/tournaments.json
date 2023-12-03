@@ -1,2670 +1,385 @@
 [
   {
+    "title": "第28回タッグ杯",
+    "title_shorter": "28タッグ",
+    "id": "b2028",
+    "host": "MKB",
+    "format": 2,
+    "number": 28,
+    "url": "https://www.mariokartcentral.com/forums/index.php?threads/mkcentral-summit-3v3-14-11-25-11-26.20408/",
+    "date": "2023-11-26",
+    "winners": [
+      "32c6",
+      "5292"
+    ]
+  },
+  {
     "title": "MKCentral SUMMIT 3v3 #14",
     "title_shorter": "3v3 #14",
     "id": "c3014",
-    "author": "MKCentral",
+    "host": "MKCentral",
     "format": 3,
+    "number": 14,
     "url": "https://www.mariokartcentral.com/forums/index.php?threads/mkcentral-summit-3v3-14-11-25-11-26.20408/",
     "date": "2023-11-26",
-    "finals": {
-      "first": {
-        "tag": "アッカーマン",
-        "points": "260",
-        "players": [
-          {
-            "id": "2290",
-            "points": 65
-          },
-          {
-            "id": "3997",
-            "points": 64
-          },
-          {
-            "id": "3816",
-            "points": 131
-          }
-        ]
-      },
-      "second": {
-        "tag": "eon",
-        "points": "253",
-        "players": [
-          {
-            "id": "23d2",
-            "points": 88
-          },
-          {
-            "id": "2da6",
-            "points": 68
-          },
-          {
-            "id": "24c2",
-            "points": 97
-          }
-        ]
-      },
-      "third": {
-        "tag": "dikos",
-        "points": "236",
-        "players": [
-          {
-            "id": "4415",
-            "points": 76
-          },
-          {
-            "id": "3fef",
-            "points": 84
-          },
-          {
-            "id": "3078",
-            "points": 76
-          }
-        ]
-      },
-      "fourth": {
-        "tag": "__",
-        "points": "235",
-        "players": [
-          {
-            "id": "20db",
-            "points": 69
-          },
-          {
-            "id": "3361",
-            "points": 78
-          },
-          {
-            "id": "4daf",
-            "points": 88
-          }
-        ]
-      }
-    }
+    "winners": [
+      "2290",
+      "3997",
+      "3816"
+    ]
   },
   {
     "title": "MKCentral SUMMIT 2v2 #14",
     "title_shorter": "2v2 #14",
     "id": "c2014",
-    "author": "MKCentral",
+    "host": "MKCentral",
     "format": 2,
+    "number": 14,
     "url": "https://www.mariokartcentral.com/forums/index.php?threads/mkcentral-summit-2v2-14-11-11-12.20530/",
     "date": "2023-11-12",
-    "finals": {
-      "first": {
-        "tag": "_MK",
-        "points": 206,
-        "players": [
-          {
-            "id": "2ac7",
-            "points": 127
-          },
-          {
-            "id": "3eee",
-            "points": 79
-          }
-        ]
-      },
-      "second": {
-        "tag": "zaru",
-        "points": 192,
-        "players": [
-          {
-            "id": "3361",
-            "points": 109
-          },
-          {
-            "id": "8d92",
-            "points": 83
-          }
-        ]
-      },
-      "third": {
-        "tag": "RR",
-        "points": 177,
-        "players": [
-          {
-            "id": "3379",
-            "points": 96
-          },
-          {
-            "id": "2ff6",
-            "points": 81
-          }
-        ]
-      },
-      "fourth": {
-        "tag": "Ga",
-        "points": 160,
-        "players": [
-          {
-            "id": "331a",
-            "points": 91
-          },
-          {
-            "id": "420b",
-            "points": 69
-          }
-        ]
-      },
-      "fifth": {
-        "tag": "あおらん",
-        "points": 125,
-        "players": [
-          {
-            "id": "5f7b",
-            "points": 54
-          },
-          {
-            "id": "2c13",
-            "points": 71
-          }
-        ]
-      },
-      "sixth": {
-        "tag": "KI",
-        "points": 124,
-        "players": [
-          {
-            "id": "3bbe",
-            "points": 67
-          },
-          {
-            "id": "2458",
-            "points": 57
-          }
-        ]
-      }
-    }
+    "winners": [
+      "2ac7",
+      "3eee"
+    ]
   },
   {
     "title": "MKCentral SUMMIT FFA #14",
     "title_shorter": "FFA #14",
     "id": "c1014",
-    "author": "MKCentral",
+    "host": "MKCentral",
     "format": 1,
+    "number": 14,
     "url": "https://www.mariokartcentral.com/forums/index.php?threads/mkcentral-summit-ffa-14-10-28-10-29.20406/",
     "date": "2023-10-29",
-    "finals": {
-      "first": {
-        "tag": "Khaenri'ah",
-        "points": 117,
-        "players": [
-          {
-            "id": "2f14",
-            "points": 117
-          }
-        ]
-      },
-      "second": {
-        "tag": "ピカレスク",
-        "points": 102,
-        "players": [
-          {
-            "id": "2ff6",
-            "points": 102
-          }
-        ]
-      },
-      "third": {
-        "tag": "Rampage",
-        "points": 100,
-        "players": [
-          {
-            "id": "2ac7",
-            "points": 100
-          }
-        ]
-      },
-      "fourth": {
-        "tag": "Milotte",
-        "points": 98,
-        "players": [
-          {
-            "id": "506d",
-            "points": 98
-          }
-        ]
-      },
-      "fifth": {
-        "tag": "やまもとゆうた",
-        "points": 97,
-        "players": [
-          {
-            "id": "3361",
-            "points": 97
-          }
-        ]
-      },
-      "sixth": {
-        "tag": "わかものをいじめるな",
-        "points": 91,
-        "players": [
-          {
-            "id": "32c6",
-            "points": 91
-          }
-        ]
-      },
-      "seventh": {
-        "tag": "れっつらぺー！",
-        "points": 79,
-        "players": [
-          {
-            "id": "3f8a",
-            "points": 79
-          }
-        ]
-      },
-      "eighth": {
-        "tag": "newjeans",
-        "points": 77,
-        "players": [
-          {
-            "id": "35e0",
-            "points": 77
-          }
-        ]
-      },
-      "ninth": {
-        "tag": "コウコウまじほんもの",
-        "points": 73,
-        "players": [
-          {
-            "id": "2fa2",
-            "points": 73
-          }
-        ]
-      },
-      "tenth": {
-        "tag": "c",
-        "points": 54,
-        "players": [
-          {
-            "id": "26af",
-            "points": 54
-          }
-        ]
-      },
-      "eleventh": {
-        "tag": "かいりゅう",
-        "points": 53,
-        "players": [
-          {
-            "id": "41c4",
-            "points": 53
-          }
-        ]
-      },
-      "twelfth": {
-        "tag": "しょう4までおむつ",
-        "points": 43,
-        "players": [
-          {
-            "id": "26e5",
-            "points": 43
-          }
-        ]
-      }
-    }
+    "winners": [
+      "2f14"
+    ]
   },
   {
     "title": "第27回タッグ杯",
     "title_shorter": "27タッグ",
     "id": "b2027",
-    "author": "MKB",
+    "host": "MKB",
     "format": 2,
+    "number": 27,
     "url": "http://japan-mk.blog.jp/mk8dx.result-193",
     "date": "2023-10-22",
-    "finals": {
-      "first": {
-        "tag": "Beyond",
-        "points": 185,
-        "players": [
-          {
-            "id": "3c60",
-            "points": 65
-          },
-          {
-            "id": "3997",
-            "points": 120
-          }
-        ]
-      },
-      "second": {
-        "tag": "かわはるき",
-        "points": 182,
-        "players": [
-          {
-            "id": "20e5",
-            "points": 92
-          },
-          {
-            "id": "2290",
-            "points": 90
-          }
-        ]
-      },
-      "third": {
-        "tag": "DiVA6_",
-        "points": 171,
-        "players": [
-          {
-            "id": "4311",
-            "points": 102
-          },
-          {
-            "id": "3507",
-            "points": 69
-          }
-        ]
-      },
-      "fourth": {
-        "tag": "M(",
-        "points": 170,
-        "players": [
-          {
-            "id": "42bc",
-            "points": 86
-          },
-          {
-            "id": "2b56",
-            "points": 84
-          }
-        ]
-      },
-      "fifth": {
-        "tag": "ARS",
-        "points": 162,
-        "players": [
-          {
-            "id": "3bbe",
-            "points": 81
-          },
-          {
-            "id": "228b",
-            "points": 81
-          }
-        ]
-      },
-      "sixth": {
-        "tag": "ar",
-        "points": 114,
-        "players": [
-          {
-            "id": "420e",
-            "points": 48
-          },
-          {
-            "id": "33af",
-            "points": 66
-          }
-        ]
-      }
-    }
+    "winners": [
+      "3c60",
+      "3997"
+    ]
   },
   {
     "title": "MKCentral SUMMIT 3v3 #13",
     "title_shorter": "3v3 #13",
     "id": "c3013",
-    "author": "MKCentral",
+    "host": "MKCentral",
     "format": 3,
+    "number": 13,
     "url": "https://www.mariokartcentral.com/forums/index.php?threads/mkcentral-summit-3v3-13-10-14-10-15.20081/",
     "date": "2023-10-15",
-    "finals": {
-      "first": {
-        "tag": "おー！",
-        "points": 313,
-        "players": [
-          {
-            "id": "2e6b",
-            "points": 107
-          },
-          {
-            "id": "2229",
-            "points": 107
-          },
-          {
-            "id": "32c6",
-            "points": 99
-          }
-        ]
-      },
-      "second": {
-        "tag": "F/sn",
-        "points": 258,
-        "players": [
-          {
-            "id": "2290",
-            "points": 76
-          },
-          {
-            "id": "417f",
-            "points": 72
-          },
-          {
-            "id": "4311",
-            "points": 110
-          }
-        ]
-      },
-      "third": {
-        "tag": "39",
-        "points": 219,
-        "players": [
-          {
-            "id": "4b7f",
-            "points": 93
-          },
-          {
-            "id": "7055",
-            "points": 51
-          },
-          {
-            "id": "6c85",
-            "points": 75
-          }
-        ]
-      },
-      "fourth": {
-        "tag": "...",
-        "points": 194,
-        "players": [
-          {
-            "id": "5ac5",
-            "points": 57
-          },
-          {
-            "id": "7032",
-            "points": 49
-          },
-          {
-            "id": "7332",
-            "points": 88
-          }
-        ]
-      }
-    }
+    "winners": [
+      "2e6b",
+      "2229",
+      "32c6"
+    ]
   },
   {
     "title": "第31回個人杯",
     "title_shorter": "31個人",
     "id": "b1031",
-    "author": "MKB",
+    "host": "MKB",
     "format": 1,
+    "number": 31,
     "url": "http://japan-mk.blog.jp/mk8dx.result-191",
     "date": "2023-09-30",
-    "finals": {
-      "first": {
-        "tag": "リューノブレード",
-        "points": 103,
-        "players": [
-          {
-            "id": "2da6",
-            "points": 103
-          }
-        ]
-      },
-      "second": {
-        "tag": "ないの。",
-        "points": 99,
-        "players": [
-          {
-            "id": "32c6",
-            "points": 99
-          }
-        ]
-      },
-      "third": {
-        "tag": "35lom",
-        "points": 88,
-        "players": [
-          {
-            "id": "42bd",
-            "points": 88
-          }
-        ]
-      },
-      "fourth": {
-        "tag": "kirbyfan2",
-        "points": 88,
-        "players": [
-          {
-            "id": "35e0",
-            "points": 88
-          }
-        ]
-      },
-      "fifth": {
-        "tag": "Genshin",
-        "points": 86,
-        "players": [
-          {
-            "id": "22ef",
-            "points": 86
-          }
-        ]
-      },
-      "sixth": {
-        "tag": "すきがとまらない！",
-        "points": 86,
-        "players": [
-          {
-            "id": "3206",
-            "points": 86
-          }
-        ]
-      },
-      "seventh": {
-        "tag": "いてこますぞ！",
-        "points": 82,
-        "players": [
-          {
-            "id": "5c87",
-            "points": 82
-          }
-        ]
-      },
-      "eighth": {
-        "tag": "17",
-        "points": 81,
-        "players": [
-          {
-            "id": "20db",
-            "points": 81
-          }
-        ]
-      },
-      "ninth": {
-        "tag": "Tsukuyomi",
-        "points": 73,
-        "players": [
-          {
-            "id": "4fde",
-            "points": 73
-          }
-        ]
-      },
-      "tenth": {
-        "tag": "■",
-        "points": 69,
-        "players": [
-          {
-            "id": "-",
-            "points": 69
-          }
-        ]
-      },
-      "eleventh": {
-        "tag": "Elastico",
-        "points": 65,
-        "players": [
-          {
-            "id": "3bbe",
-            "points": 65
-          }
-        ]
-      },
-      "twelfth": {
-        "tag": "ハチワレW5",
-        "points": 64,
-        "players": [
-          {
-            "id": "24c2",
-            "points": 64
-          }
-        ]
-      }
-    }
+    "winners": [
+      "2da6"
+    ]
   },
   {
     "title": "MKCentral SUMMIT 2v2 #13",
     "title_shorter": "2v2 #13",
     "id": "c2013",
-    "author": "MKCentral",
+    "host": "MKCentral",
     "format": 2,
+    "number": 13,
     "url": "https://www.mariokartcentral.com/forums/index.php?threads/mkcentral-summit-2v2-13-9-23-9-24.20080/",
     "date": "2023-09-24",
-    "finals": {
-      "first": {
-        "tag": "Art",
-        "points": 188,
-        "players": [
-          {
-            "id": "2290",
-            "points": 78
-          },
-          {
-            "id": "3816",
-            "points": 110
-          }
-        ]
-      },
-      "second": {
-        "tag": "am me.",
-        "points": 188,
-        "players": [
-          {
-            "id": "23d2",
-            "points": 106
-          },
-          {
-            "id": "2229",
-            "points": 82
-          }
-        ]
-      },
-      "third": {
-        "tag": "KC",
-        "points": 179,
-        "players": [
-          {
-            "id": "3cdf",
-            "points": 100
-          },
-          {
-            "id": "4415",
-            "points": 79
-          }
-        ]
-      },
-      "fourth": {
-        "tag": "こんにゃく",
-        "points": 170,
-        "players": [
-          {
-            "id": "254f",
-            "points": 82
-          },
-          {
-            "id": "3d7f",
-            "points": 88
-          }
-        ]
-      },
-      "fifth": {
-        "tag": "B",
-        "points": 139,
-        "players": [
-          {
-            "id": "2fea",
-            "points": 86
-          },
-          {
-            "id": "2704",
-            "points": 53
-          }
-        ]
-      },
-      "sixth": {
-        "tag": "ちゃーん",
-        "points": 120,
-        "players": [
-          {
-            "id": "3b33",
-            "points": 47
-          },
-          {
-            "id": "2a42",
-            "points": 73
-          }
-        ]
-      }
-    }
+    "winners": [
+      "2290",
+      "3816",
+      "23d2",
+      "2229"
+    ]
   },
   {
     "title": "MKCentral SUMMIT FFA #13",
     "title_shorter": "FFA #13",
     "id": "c1013",
-    "author": "MKCentral",
+    "host": "MKCentral",
     "format": 1,
-    "url": "https://www.mariokartcentral.com/forums/index.php?threads/mkcentral-summit-ffa-13-9-9-9-10.20079/",
+    "number": 13,
+    "url": "https://www.mariokartcentral.com/forums/index.php?threads/mkcentral-summit-2v2-13-9-23-9-24.20080/",
     "date": "2023-09-10",
-    "finals": {
-      "first": {
-        "tag": "Ditto",
-        "points": 106,
-        "players": [
-          {
-            "id": "3816",
-            "points": 106
-          }
-        ]
-      },
-      "second": {
-        "tag": "Zackray",
-        "points": 97,
-        "players": [
-          {
-            "id": "22ef",
-            "points": 97
-          }
-        ]
-      },
-      "third": {
-        "tag": "れもんよりめろん",
-        "points": 89,
-        "players": [
-          {
-            "id": "2da6",
-            "points": 89
-          }
-        ]
-      },
-      "fourth": {
-        "tag": "Pitou",
-        "points": 86,
-        "players": [
-          {
-            "id": "42bd",
-            "points": 86
-          }
-        ]
-      },
-      "fifth": {
-        "tag": "タカシナ　ナオ ",
-        "points": 85,
-        "players": [
-          {
-            "id": "2431",
-            "points": 85
-          }
-        ]
-      },
-      "sixth": {
-        "tag": "Mr. Scary",
-        "points": 81,
-        "players": [
-          {
-            "id": "2e6b",
-            "points": 81
-          }
-        ]
-      },
-      "seventh": {
-        "tag": "James",
-        "points": 81,
-        "players": [
-          {
-            "id": "2cdf",
-            "points": 81
-          }
-        ]
-      },
-      "eighth": {
-        "tag": "N/あ",
-        "points": 80,
-        "players": [
-          {
-            "id": "4578",
-            "points": 80
-          }
-        ]
-      },
-      "ninth": {
-        "tag": "KG Aurora",
-        "points": 75,
-        "players": [
-          {
-            "id": "2229",
-            "points": 75
-          }
-        ]
-      },
-      "tenth": {
-        "tag": "naetordoof ",
-        "points": 74,
-        "players": [
-          {
-            "id": "3b33",
-            "points": 74
-          }
-        ]
-      },
-      "eleventh": {
-        "tag": "GojoSatoru ",
-        "points": 69,
-        "players": [
-          {
-            "id": "2ac7",
-            "points": 69
-          }
-        ]
-      },
-      "twelfth": {
-        "tag": "17 ",
-        "points": 61,
-        "players": [
-          {
-            "id": "20db",
-            "points": 61
-          }
-        ]
-      }
-    }
+    "winners": [
+      "3816"
+    ]
   },
   {
     "title": "第18回トリプルス杯",
     "title_shorter": "18プルス",
     "id": "b3018",
-    "author": "MKB",
+    "host": "MKB",
     "format": 3,
+    "number": 18,
     "url": "http://japan-mk.blog.jp/mk8dx.result-189",
     "date": "2023-09-03",
-    "finals": {
-      "first": {
-        "tag": "ce",
-        "points": 286,
-        "players": [
-          {
-            "id": "4415",
-            "points": 89
-          },
-          {
-            "id": "42b2",
-            "points": 100
-          },
-          {
-            "id": "42c3",
-            "points": 97
-          }
-        ]
-      },
-      "second": {
-        "tag": "__",
-        "points": 269,
-        "players": [
-          {
-            "id": "2290",
-            "points": 54
-          },
-          {
-            "id": "3816",
-            "points": 104
-          },
-          {
-            "id": "33af",
-            "points": 111
-          }
-        ]
-      },
-      "third": {
-        "tag": "s☆",
-        "points": 227,
-        "players": [
-          {
-            "id": "3066",
-            "points": 89
-          },
-          {
-            "id": "42bc",
-            "points": 60
-          },
-          {
-            "id": "2b56",
-            "points": 78
-          }
-        ]
-      },
-      "fourth": {
-        "tag": "マジカル",
-        "points": 202,
-        "players": [
-          {
-            "id": "39c1",
-            "points": 91
-          },
-          {
-            "id": "2431",
-            "points": 44
-          },
-          {
-            "id": "36ab",
-            "points": 67
-          }
-        ]
-      }
-    }
+    "winners": [
+      "4415",
+      "42b2",
+      "42c3"
+    ]
   },
   {
     "title": "第26回タッグ杯",
     "title_shorter": "26タッグ",
     "id": "b2026",
-    "author": "MKB",
+    "host": "MKB",
     "format": 2,
+    "number": 26,
     "url": "http://japan-mk.blog.jp/mk8dx.result-188",
     "date": "2023-08-12",
-    "finals": {
-      "first": {
-        "tag": "バビロン",
-        "points": 201,
-        "players": [
-          {
-            "id": "2290",
-            "points": 104
-          },
-          {
-            "id": "33af",
-            "points": 97
-          }
-        ]
-      },
-      "second": {
-        "tag": "ときを",
-        "points": 174,
-        "players": [
-          {
-            "id": "39c1",
-            "points": 57
-          },
-          {
-            "id": "2f14",
-            "points": 117
-          }
-        ]
-      },
-      "third": {
-        "tag": "ORDER",
-        "points": 173,
-        "players": [
-          {
-            "id": "3379",
-            "points": 100
-          },
-          {
-            "id": "32c6",
-            "points": 73
-          }
-        ]
-      },
-      "fourth": {
-        "tag": "あいな",
-        "points": 163,
-        "players": [
-          {
-            "id": "23d2",
-            "points": 72
-          },
-          {
-            "id": "2229",
-            "points": 91
-          }
-        ]
-      },
-      "fifth": {
-        "tag": "せんりつ",
-        "points": 152,
-        "players": [
-          {
-            "id": "2dc3",
-            "points": 79
-          },
-          {
-            "id": "2ebd",
-            "points": 73
-          }
-        ]
-      },
-      "sixth": {
-        "tag": "ac",
-        "points": 121,
-        "players": [
-          {
-            "id": "3e43",
-            "points": 76
-          },
-          {
-            "id": "431a",
-            "points": 45
-          }
-        ]
-      }
-    }
+    "winners": [
+      "2290",
+      "33af"
+    ]
   },
   {
     "title": "MKCentral SUMMIT 4v4 #6",
     "title_shorter": "4v4 #6",
     "id": "c4006",
-    "author": "MKCentral",
+    "host": "MKCentral",
     "format": 4,
-    "url": "https://www.mariokartcentral.com/forums/index.php?threads/mkcentral-summit-4v4-6-8-5-8-6.20064/",
+    "number": 6,
+    "url": "http://japan-mk.blog.jp/mk8dx.result-188",
     "date": "2023-08-06",
-    "finals": {
-      "first": {
-        "tag": "RR★",
-        "points": 363,
-        "players": [
-          {
-            "id": "3379",
-            "points": 82
-          },
-          {
-            "id": "42bd",
-            "points": 79
-          },
-          {
-            "id": "4415",
-            "points": 120
-          },
-          {
-            "id": "2ff6",
-            "points": 82
-          }
-        ]
-      },
-      "second": {
-        "tag": "くまの",
-        "points": 321,
-        "players": [
-          {
-            "id": "4d84",
-            "points": 78
-          },
-          {
-            "id": "3da7",
-            "points": 73
-          },
-          {
-            "id": "30de",
-            "points": 84
-          },
-          {
-            "id": "4dc9",
-            "points": 86
-          }
-        ]
-      },
-      "third": {
-        "tag": "¼!",
-        "points": 300,
-        "players": [
-          {
-            "id": "33af",
-            "points": 51
-          },
-          {
-            "id": "2f14",
-            "points": 96
-          },
-          {
-            "id": "3976",
-            "points": 78
-          },
-          {
-            "id": "2229",
-            "points": 75
-          }
-        ]
-      }
-    }
+    "winners": [
+      "3379",
+      "42bd",
+      "4415",
+      "2ff6"
+    ]
   },
   {
     "title": "第30回個人杯",
     "title_shorter": "30個人",
     "id": "b1030",
-    "author": "MKB",
+    "host": "MKB",
     "format": 1,
+    "number": 30,
     "url": "http://japan-mk.blog.jp/mk8dx.result-186",
     "date": "2023-07-29",
-    "finals": {
-      "first": {
-        "tag": "Aldebaran",
-        "points": 100,
-        "players": [
-          {
-            "id": "254f",
-            "points": 100
-          }
-        ]
-      },
-      "second": {
-        "tag": "しおにゃんかいちょう",
-        "points": 99,
-        "players": [
-          {
-            "id": "3851",
-            "points": 99
-          }
-        ]
-      },
-      "third": {
-        "tag": "K4I",
-        "points": 91,
-        "players": [
-          {
-            "id": "2dc3",
-            "points": 91
-          }
-        ]
-      },
-      "fourth": {
-        "tag": "らいすけーき",
-        "points": 88,
-        "players": [
-          {
-            "id": "338c",
-            "points": 88
-          }
-        ]
-      },
-      "fifth": {
-        "tag": "Raiti",
-        "points": 86,
-        "players": [
-          {
-            "id": "8b02",
-            "points": 86
-          }
-        ]
-      },
-      "sixth": {
-        "tag": "¢ cødeMAX$",
-        "points": 85,
-        "players": [
-          {
-            "id": "2229",
-            "points": 85
-          }
-        ]
-      },
-      "seventh": {
-        "tag": "Recitals",
-        "points": 81,
-        "players": [
-          {
-            "id": "2eaa",
-            "points": 81
-          }
-        ]
-      },
-      "eighth": {
-        "tag": "AA",
-        "points": 81,
-        "players": [
-          {
-            "id": "3361",
-            "points": 81
-          }
-        ]
-      },
-      "ninth": {
-        "tag": "ねむまり",
-        "points": 77,
-        "players": [
-          {
-            "id": "4933",
-            "points": 77
-          }
-        ]
-      },
-      "tenth": {
-        "tag": "Sandalleap",
-        "points": 77,
-        "players": [
-          {
-            "id": "263e",
-            "points": 77
-          }
-        ]
-      },
-      "eleventh": {
-        "tag": "Vandalize",
-        "points": 76,
-        "players": [
-          {
-            "id": "-",
-            "points": 76
-          }
-        ]
-      },
-      "twelfth": {
-        "tag": "しゅ",
-        "points": 43,
-        "players": [
-          {
-            "id": "3d7f",
-            "points": 43
-          }
-        ]
-      }
-    }
+    "winners": [
+      "254f"
+    ]
   },
   {
     "title": "MKCentral SUMMIT 3v3 #12",
     "title_shorter": "3v3 #12",
     "id": "c3012",
-    "author": "MKCentral",
+    "host": "MKCentral",
     "format": 3,
-    "url": "https://www.mariokartcentral.com/forums/index.php?threads/mkcentral-summit-3v3-12-7-22-7-23.20043/",
+    "number": 12,
+    "url": "http://japan-mk.blog.jp/mk8dx.result-186",
     "date": "2023-07-23",
-    "finals": {
-      "first": {
-        "tag": "N/",
-        "points": 280,
-        "players": [
-          {
-            "id": "2229",
-            "points": 106
-          },
-          {
-            "id": "4578",
-            "points": 89
-          },
-          {
-            "id": "254e",
-            "points": 85
-          }
-        ]
-      },
-      "second": {
-        "tag": "F/s",
-        "points": 255,
-        "players": [
-          {
-            "id": "3997",
-            "points": 112
-          },
-          {
-            "id": "2290",
-            "points": 72
-          },
-          {
-            "id": "3816",
-            "points": 71
-          }
-        ]
-      },
-      "third": {
-        "tag": "◆",
-        "points": 244,
-        "players": [
-          {
-            "id": "3fef",
-            "points": 90
-          },
-          {
-            "id": "3078",
-            "points": 77
-          },
-          {
-            "id": "3979",
-            "points": 77
-          }
-        ]
-      },
-      "fourth": {
-        "tag": "Ł ◇",
-        "points": 205,
-        "players": [
-          {
-            "id": "289d",
-            "points": 74
-          },
-          {
-            "id": "2d20",
-            "points": 66
-          },
-          {
-            "id": "2956",
-            "points": 65
-          }
-        ]
-      }
-    }
+    "winners": [
+      "2229",
+      "4578",
+      "254e"
+    ]
   },
   {
     "title": "第25回タッグ杯",
     "title_shorter": "25タッグ",
     "id": "b2025",
-    "author": "MKB",
+    "host": "MKB",
     "format": 2,
+    "number": 25,
     "url": "http://japan-mk.blog.jp/mk8dx.result-183",
     "date": "2023-07-02",
-    "finals": {
-      "first": {
-        "tag": "ポテナゲ",
-        "points": 200,
-        "players": [
-          {
-            "id": "2431",
-            "points": 88
-          },
-          {
-            "id": "2f14",
-            "points": 112
-          }
-        ]
-      },
-      "second": {
-        "tag": "Amigo",
-        "points": 169,
-        "players": [
-          {
-            "id": "6e52",
-            "points": 71
-          },
-          {
-            "id": "3022",
-            "points": 98
-          }
-        ]
-      },
-      "third": {
-        "tag": "★→∞",
-        "points": 167,
-        "players": [
-          {
-            "id": "2c49",
-            "points": 82
-          },
-          {
-            "id": "2cb6",
-            "points": 85
-          }
-        ]
-      },
-      "fourth": {
-        "tag": "ぽこピー☆",
-        "points": 155,
-        "players": [
-          {
-            "id": "2da6",
-            "points": 69
-          },
-          {
-            "id": "24c2",
-            "points": 86
-          }
-        ]
-      },
-      "fifth": {
-        "tag": "MK6☆",
-        "points": 152,
-        "players": [
-          {
-            "id": "2b56",
-            "points": 73
-          },
-          {
-            "id": "42bc",
-            "points": 79
-          }
-        ]
-      },
-      "sixth": {
-        "tag": "W",
-        "points": 141,
-        "players": [
-          {
-            "id": "346d",
-            "points": 68
-          },
-          {
-            "id": "20db",
-            "points": 73
-          }
-        ]
-      }
-    }
+    "winners": [
+      "2431",
+      "2f14"
+    ]
   },
   {
     "title": "MKCentral SUMMIT 2v2 #12",
     "title_shorter": "2v2 #12",
     "id": "c2012",
-    "author": "MKCentral",
+    "host": "MKCentral",
     "format": 2,
+    "number": 12,
     "url": "https://www.mariokartcentral.com/forums/index.php?threads/mkcentral-summit-2v2-12-6-10-6-11.19914/",
     "date": "2023-06-11",
-    "finals": {
-      "first": {
-        "tag": "Assault",
-        "points": 187,
-        "players": [
-          {
-            "id": "2ac7",
-            "points": 111
-          },
-          {
-            "id": "276f",
-            "points": 76
-          }
-        ]
-      },
-      "second": {
-        "tag": "N/",
-        "points": 182,
-        "players": [
-          {
-            "id": "4578",
-            "points": 92
-          },
-          {
-            "id": "5229",
-            "points": 90
-          }
-        ]
-      },
-      "third": {
-        "tag": "RR★",
-        "points": 182,
-        "players": [
-          {
-            "id": "3cdf",
-            "points": 96
-          },
-          {
-            "id": "2ff6",
-            "points": 86
-          }
-        ]
-      },
-      "fourth": {
-        "tag": "ria",
-        "points": 158,
-        "players": [
-          {
-            "id": "3997",
-            "points": 90
-          },
-          {
-            "id": "5292",
-            "points": 68
-          }
-        ]
-      },
-      "fifth": {
-        "tag": "in",
-        "points": 140,
-        "players": [
-          {
-            "id": "3976",
-            "points": 83
-          },
-          {
-            "id": "254e",
-            "points": 57
-          }
-        ]
-      },
-      "sixth": {
-        "tag": "nase",
-        "points": 135,
-        "players": [
-          {
-            "id": "2ddf",
-            "points": 71
-          },
-          {
-            "id": "2704",
-            "points": 64
-          }
-        ]
-      }
-    }
+    "winners": [
+      "2ac7",
+      "276f"
+    ]
   },
   {
     "title": "第14回フォーマンセル杯",
     "title_shorter": "14フォーマン",
     "id": "b4014",
-    "author": "MKB",
+    "host": "MKB",
     "format": 4,
+    "number": 14,
     "url": "http://japan-mk.blog.jp/mk8dx.result-180",
     "date": "2023-06-03",
-    "finals": {
-      "first": {
-        "tag": "Bこどもべや",
-        "points": 340,
-        "players": [
-          {
-            "id": "32c6",
-            "points": 109
-          },
-          {
-            "id": "3379",
-            "points": 90
-          },
-          {
-            "id": "2431",
-            "points": 85
-          },
-          {
-            "id": "23d2",
-            "points": 56
-          }
-        ]
-      },
-      "second": {
-        "tag": "N/",
-        "points": 330,
-        "players": [
-          {
-            "id": "30de",
-            "points": 97
-          },
-          {
-            "id": "2e83",
-            "points": 85
-          },
-          {
-            "id": "22b5",
-            "points": 76
-          },
-          {
-            "id": "40c7",
-            "points": 72
-          }
-        ]
-      },
-      "third": {
-        "tag": "じゃがりこ☆",
-        "points": 314,
-        "players": [
-          {
-            "id": "24c2",
-            "points": 102
-          },
-          {
-            "id": "3e90",
-            "points": 81
-          },
-          {
-            "id": "2da6",
-            "points": 69
-          },
-          {
-            "id": "2b3d",
-            "points": 62
-          }
-        ]
-      }
-    }
+    "winners": [
+      "32c6",
+      "3379",
+      "2431",
+      "23d2"
+    ]
   },
   {
     "title": "MKCentral SUMMIT FFA #12",
     "title_shorter": "FFA #12",
     "id": "c1012",
-    "author": "MKCentral",
+    "host": "MKCentral",
     "format": 1,
+    "number": 12,
     "url": "https://www.mariokartcentral.com/forums/index.php?threads/mkcentral-summit-ffa-12-5-27-5-28.19901/",
     "date": "2023-05-28",
-    "finals": {
-      "first": {
-        "tag": "T.Hinanawi",
-        "points": 105,
-        "players": [
-          {
-            "id": "2823",
-            "points": 105
-          }
-        ]
-      },
-      "second": {
-        "tag": "poto",
-        "points": 102,
-        "players": [
-          {
-            "id": "32c6",
-            "points": 102
-          }
-        ]
-      },
-      "third": {
-        "tag": "あゆみん",
-        "points": 101,
-        "players": [
-          {
-            "id": "3eea",
-            "points": 101
-          }
-        ]
-      },
-      "fourth": {
-        "tag": "RBI",
-        "points": 99,
-        "players": [
-          {
-            "id": "5a8d",
-            "points": 99
-          }
-        ]
-      },
-      "fifth": {
-        "tag": "sweep1",
-        "points": 92,
-        "players": [
-          {
-            "id": "2ff6",
-            "points": 92
-          }
-        ]
-      },
-      "sixth": {
-        "tag": "M",
-        "points": 83,
-        "players": [
-          {
-            "id": "3379",
-            "points": 83
-          }
-        ]
-      },
-      "seventh": {
-        "tag": "おおみだいき",
-        "points": 80,
-        "players": [
-          {
-            "id": "38fe",
-            "points": 80
-          }
-        ]
-      },
-      "eighth": {
-        "tag": "トリセツ",
-        "points": 78,
-        "players": [
-          {
-            "id": "5229",
-            "points": 78
-          }
-        ]
-      },
-      "ninth": {
-        "tag": "4TB☆MrBean",
-        "points": 69,
-        "players": [
-          {
-            "id": "2229",
-            "points": 69
-          }
-        ]
-      },
-      "tenth": {
-        "tag": "Oboro",
-        "points": 66,
-        "players": [
-          {
-            "id": "29dd",
-            "points": 66
-          }
-        ]
-      },
-      "eleventh": {
-        "tag": "JOYBOY",
-        "points": 60,
-        "players": [
-          {
-            "id": "23d2",
-            "points": 60
-          }
-        ]
-      },
-      "twelfth": {
-        "tag": "jaari",
-        "points": 49,
-        "players": [
-          {
-            "id": "42b2",
-            "points": 49
-          }
-        ]
-      }
-    }
+    "winners": [
+      "2823"
+    ]
   },
   {
     "title": "MKCentral SUMMIT 3v3 #11",
     "title_shorter": "3v3 #11",
     "id": "c3011",
-    "author": "MKCentral",
+    "host": "MKCentral",
     "format": 3,
+    "number": 11,
     "url": "https://www.mariokartcentral.com/forums/index.php?threads/mkcentral-summit-3v3-11-5-13-5-14.19807/",
     "date": "2023-05-14",
-    "finals": {
-      "first": {
-        "tag": "Yuru",
-        "points": 263,
-        "players": [
-          {
-            "id": "26f4",
-            "points": 95
-          },
-          {
-            "id": "32c6",
-            "points": 85
-          },
-          {
-            "id": "20e5",
-            "points": 83
-          }
-        ]
-      },
-      "second": {
-        "tag": "Lord",
-        "points": 256,
-        "players": [
-          {
-            "id": "42b2",
-            "points": 104
-          },
-          {
-            "id": "2823",
-            "points": 79
-          },
-          {
-            "id": "39c1",
-            "points": 73
-          }
-        ]
-      },
-      "third": {
-        "tag": "うどんや",
-        "points": 243,
-        "players": [
-          {
-            "id": "254f",
-            "points": 93
-          },
-          {
-            "id": "5292",
-            "points": 85
-          },
-          {
-            "id": "506d",
-            "points": 65
-          }
-        ]
-      },
-      "fourth": {
-        "tag": "Pa",
-        "points": 222,
-        "players": [
-          {
-            "id": "3361",
-            "points": 81
-          },
-          {
-            "id": "5229",
-            "points": 80
-          },
-          {
-            "id": "2e6b",
-            "points": 61
-          }
-        ]
-      }
-    }
+    "winners": [
+      "26f4",
+      "32c6",
+      "20e5"
+    ]
   },
   {
     "title": "6周年大規模個人杯",
     "title_shorter": "6周年個人",
     "id": "b1029",
-    "author": "MKB",
+    "host": "MKB",
     "format": 1,
+    "number": 29,
     "url": "http://japan-mk.blog.jp/mk8dx.cup-82",
     "date": "2023-04-30",
-    "finals": {
-      "first": {
-        "tag": "_",
-        "points": 105,
-        "players": [
-          {
-            "id": "33af",
-            "points": 105
-          }
-        ]
-      },
-      "second": {
-        "tag": "アマテラス",
-        "points": 96,
-        "players": [
-          {
-            "id": "3816",
-            "points": 96
-          }
-        ]
-      },
-      "third": {
-        "tag": "Sylveon",
-        "points": 94,
-        "players": [
-          {
-            "id": "3eea",
-            "points": 94
-          }
-        ]
-      },
-      "fourth": {
-        "tag": "Adoration",
-        "points": 94,
-        "players": [
-          {
-            "id": "4daf",
-            "points": 94
-          }
-        ]
-      },
-      "fifth": {
-        "tag": "crγing?LOL",
-        "points": 90,
-        "players": [
-          {
-            "id": "2f14",
-            "points": 90
-          }
-        ]
-      },
-      "sixth": {
-        "tag": "Rococo",
-        "points": 84,
-        "players": [
-          {
-            "id": "254f",
-            "points": 84
-          }
-        ]
-      },
-      "seventh": {
-        "tag": "ねおふぁんぼーい",
-        "points": 82,
-        "players": [
-          {
-            "id": "3361",
-            "points": 82
-          }
-        ]
-      },
-      "eighth": {
-        "tag": "スティルインラブ",
-        "points": 82,
-        "players": [
-          {
-            "id": "4dda",
-            "points": 82
-          }
-        ]
-      },
-      "ninth": {
-        "tag": "Karin Iste",
-        "points": 72,
-        "players": [
-          {
-            "id": "2e83",
-            "points": 72
-          }
-        ]
-      },
-      "tenth": {
-        "tag": "あいすみーね",
-        "points": 72,
-        "players": [
-          {
-            "id": "20db",
-            "points": 72
-          }
-        ]
-      },
-      "eleventh": {
-        "tag": "しゃかいじん",
-        "points": 58,
-        "players": [
-          {
-            "id": "42bd",
-            "points": 58
-          }
-        ]
-      },
-      "twelfth": {
-        "tag": "フェイク",
-        "points": 55,
-        "players": [
-          {
-            "id": "-",
-            "points": 55
-          }
-        ]
-      }
-    }
+    "winners": [
+      "33af"
+    ]
   },
   {
     "title": "MKCentral SUMMIT 2v2 #11",
     "title_shorter": "2v2 #11",
     "id": "c2011",
-    "author": "MKCentral",
+    "host": "MKCentral",
     "format": 2,
+    "number": 11,
     "url": "https://www.mariokartcentral.com/forums/index.php?threads/mkcentral-summit-2v2-11-4-15-4-16.19740/",
     "date": "2023-04-16",
-    "finals": {
-      "first": {
-        "tag": "Fσ",
-        "points": 194,
-        "players": [
-          {
-            "id": "42dc",
-            "points": 98
-          },
-          {
-            "id": "2e6b",
-            "points": 96
-          }
-        ]
-      },
-      "second": {
-        "tag": "ma",
-        "points": 183,
-        "players": [
-          {
-            "id": "3a96",
-            "points": 116
-          },
-          {
-            "id": "42b2",
-            "points": 67
-          }
-        ]
-      },
-      "third": {
-        "tag": "ta",
-        "points": 168,
-        "players": [
-          {
-            "id": "4578",
-            "points": 104
-          },
-          {
-            "id": "3379",
-            "points": 64
-          }
-        ]
-      },
-      "fourth": {
-        "tag": "us",
-        "points": 157,
-        "players": [
-          {
-            "id": "3361",
-            "points": 90
-          },
-          {
-            "id": "4daf",
-            "points": 67
-          }
-        ]
-      },
-      "fifth": {
-        "tag": "SAO∴",
-        "points": 154,
-        "players": [
-          {
-            "id": "2290",
-            "points": 61
-          },
-          {
-            "id": "3816",
-            "points": 93
-          }
-        ]
-      },
-      "sixth": {
-        "tag": "わざわいの",
-        "points": 128,
-        "players": [
-          {
-            "id": "302b",
-            "points": 71
-          },
-          {
-            "id": "2ff6",
-            "points": 57
-          }
-        ]
-      }
-    }
+    "winners": [
+      "42dc",
+      "2e6b"
+    ]
   },
   {
     "title": "MKCentral SUMMIT FFA #11",
     "title_shorter": "FFA #11",
     "id": "c1011",
-    "author": "MKCentral",
+    "host": "MKCentral",
     "format": 1,
+    "number": 11,
     "url": "https://www.mariokartcentral.com/forums/index.php?threads/mkcentral-summit-ffa-11-4-1-4-2.19685/",
     "date": "2023-04-02",
-    "finals": {
-      "first": {
-        "tag": "みふぃふわ",
-        "points": 116,
-        "players": [
-          {
-            "id": "32c6",
-            "points": 116
-          }
-        ]
-      },
-      "second": {
-        "tag": "∀rkadia",
-        "points": 98,
-        "players": [
-          {
-            "id": "254f",
-            "points": 98
-          }
-        ]
-      },
-      "third": {
-        "tag": "Prin",
-        "points": 95,
-        "players": [
-          {
-            "id": "3a26",
-            "points": 95
-          }
-        ]
-      },
-      "fourth": {
-        "tag": "Ne★Sylvain",
-        "points": 89,
-        "players": [
-          {
-            "id": "2b56",
-            "points": 89
-          }
-        ]
-      },
-      "fifth": {
-        "tag": "WOR DASEIA",
-        "points": 89,
-        "players": [
-          {
-            "id": "2229",
-            "points": 89
-          }
-        ]
-      },
-      "sixth": {
-        "tag": "きりか",
-        "points": 89,
-        "players": [
-          {
-            "id": "2da6",
-            "points": 89
-          }
-        ]
-      },
-      "seventh": {
-        "tag": "タカラモノズ",
-        "points": 81,
-        "players": [
-          {
-            "id": "2ff6",
-            "points": 81
-          }
-        ]
-      },
-      "eighth": {
-        "tag": "Guti",
-        "points": 80,
-        "players": [
-          {
-            "id": "2ac7",
-            "points": 80
-          }
-        ]
-      },
-      "ninth": {
-        "tag": "nanashi",
-        "points": 75,
-        "players": [
-          {
-            "id": "4551",
-            "points": 75
-          }
-        ]
-      },
-      "tenth": {
-        "tag": "ナゴヤ・ディビジョン",
-        "points": 59,
-        "players": [
-          {
-            "id": "3277",
-            "points": 59
-          }
-        ]
-      },
-      "eleventh": {
-        "tag": "poi",
-        "points": 59,
-        "players": [
-          {
-            "id": "4748",
-            "points": 59
-          }
-        ]
-      },
-      "twelfth": {
-        "tag": "He's Mint",
-        "points": 54,
-        "players": [
-          {
-            "id": "417f",
-            "points": 54
-          }
-        ]
-      }
-    }
+    "winners": [
+      "32c6"
+    ]
   },
   {
     "title": "MKCentral SUMMIT 4v4 #5",
     "title_shorter": "4v4 #5",
     "id": "c4005",
-    "author": "MKCentral",
+    "host": "MKCentral",
     "format": 4,
+    "number": 5,
     "url": "https://www.mariokartcentral.com/forums/index.php?threads/mkcentral-summit-4v4-5-2-25-2-26.19041/",
-    "date": "2023-02-26",
-    "finals": {
-      "first": {
-        "tag": "#!!",
-        "points": 341,
-        "players": [
-          {
-            "id": "39c1",
-            "points": 80
-          },
-          {
-            "id": "3976",
-            "points": 98
-          },
-          {
-            "id": "3246",
-            "points": 72
-          },
-          {
-            "id": "4578",
-            "points": 91
-          }
-        ]
-      },
-      "second": {
-        "tag": "【γ】",
-        "points": 338,
-        "players": [
-          {
-            "id": "23d2",
-            "points": 86
-          },
-          {
-            "id": "33af",
-            "points": 68
-          },
-          {
-            "id": "3816",
-            "points": 90
-          },
-          {
-            "id": "39e4",
-            "points": 94
-          }
-        ]
-      },
-      "third": {
-        "tag": "Star",
-        "points": 305,
-        "players": [
-          {
-            "id": "4415",
-            "points": 65
-          },
-          {
-            "id": "3cdf",
-            "points": 85
-          },
-          {
-            "id": "42b2",
-            "points": 80
-          },
-          {
-            "id": "2dc3",
-            "points": 75
-          }
-        ]
-      }
-    }
+    "date": "2023-02-06",
+    "winners": [
+      "39c1",
+      "3976",
+      "3246",
+      "4578"
+    ]
   },
   {
     "title": "MKCentral SUMMIT 3v3 #10",
     "title_shorter": "3v3 #10",
     "id": "c3010",
-    "author": "MKCentral",
+    "host": "MKCentral",
     "format": 3,
+    "number": 10,
     "url": "https://www.mariokartcentral.com/forums/index.php?threads/mkcentral-summit-3v3-10-2-11-2-12.18345/",
     "date": "2023-02-12",
-    "finals": {
-      "first": {
-        "tag": "Na",
-        "points": 264,
-        "players": [
-          {
-            "id": "2b56",
-            "points": 83
-          },
-          {
-            "id": "42bc",
-            "points": 96
-          },
-          {
-            "id": "3997",
-            "points": 85
-          }
-        ]
-      },
-      "second": {
-        "tag": "_ftw ",
-        "points": 262,
-        "players": [
-          {
-            "id": "2704",
-            "points": 101
-          },
-          {
-            "id": "420b",
-            "points": 78
-          },
-          {
-            "id": "4dda",
-            "points": 83
-          }
-        ]
-      },
-      "third": {
-        "tag": ".key",
-        "points": 233,
-        "players": [
-          {
-            "id": "23d2",
-            "points": 77
-          },
-          {
-            "id": "2e64",
-            "points": 92
-          },
-          {
-            "id": "26f4",
-            "points": 64
-          }
-        ]
-      },
-      "fourth": {
-        "tag": "20",
-        "points": 225,
-        "players": [
-          {
-            "id": "20e5",
-            "points": 89
-          },
-          {
-            "id": "32c6",
-            "points": 79
-          },
-          {
-            "id": "3048",
-            "points": 57
-          }
-        ]
-      }
-    }
+    "winners": [
+      "2b56",
+      "42bc",
+      "3997"
+    ]
   },
   {
     "title": "第28回個人杯",
     "title_shorter": "28個人",
     "id": "b1028",
-    "author": "MKB",
+    "host": "MKB",
     "format": 1,
+    "number": 28,
     "url": "http://japan-mk.blog.jp/mk8dx.result-171",
     "date": "2023-02-05",
-    "finals": {
-      "first": {
-        "tag": "きらきら",
-        "points": 103,
-        "players": [
-          {
-            "id": "420b",
-            "points": 103
-          }
-        ]
-      },
-      "second": {
-        "tag": "えがおをみせて",
-        "points": 101,
-        "players": [
-          {
-            "id": "42dc",
-            "points": 101
-          }
-        ]
-      },
-      "third": {
-        "tag": "vividboooy",
-        "points": 92,
-        "players": [
-          {
-            "id": "3379",
-            "points": 92
-          }
-        ]
-      },
-      "fourth": {
-        "tag": "じぇーじぇーあん",
-        "points": 88,
-        "players": [
-          {
-            "id": "47e8",
-            "points": 88
-          }
-        ]
-      },
-      "fifth": {
-        "tag": "Leil",
-        "points": 87,
-        "players": [
-          {
-            "id": "3066",
-            "points": 87
-          }
-        ]
-      },
-      "sixth": {
-        "tag": "Subtilizer",
-        "points": 85,
-        "players": [
-          {
-            "id": "23d2",
-            "points": 85
-          }
-        ]
-      },
-      "seventh": {
-        "tag": "シンドバッド",
-        "points": 83,
-        "players": [
-          {
-            "id": "3d7f",
-            "points": 83
-          }
-        ]
-      },
-      "eighth": {
-        "tag": "Mtl☆マーテル",
-        "points": 78,
-        "players": [
-          {
-            "id": "42bc",
-            "points": 78
-          }
-        ]
-      },
-      "ninth": {
-        "tag": "ニャオハ",
-        "points": 76,
-        "players": [
-          {
-            "id": "2155",
-            "points": 76
-          }
-        ]
-      },
-      "tenth": {
-        "tag": "Minccino",
-        "points": 70,
-        "players": [
-          {
-            "id": "-",
-            "points": 70
-          }
-        ]
-      },
-      "eleventh": {
-        "tag": "Lysithea",
-        "points": 61,
-        "players": [
-          {
-            "id": "4daf",
-            "points": 61
-          }
-        ]
-      },
-      "twelfth": {
-        "tag": "やさかのみどり",
-        "points": 60,
-        "players": [
-          {
-            "id": "2540",
-            "points": 60
-          }
-        ]
-      }
-    }
+    "winners": [
+      "420b"
+    ]
   },
   {
     "title": "MKCentral SUMMIT 2v2 #10",
     "title_shorter": "2v2 #10",
     "id": "c2010",
-    "author": "MKCentral",
+    "host": "MKCentral",
     "format": 2,
+    "number": 10,
     "url": "https://www.mariokartcentral.com/forums/index.php?threads/mkcentral-summit-2v2-10-1-28-1-29.18230/",
     "date": "2023-01-29",
-    "finals": {
-      "first": {
-        "tag": "PSG",
-        "points": 205,
-        "players": [
-          {
-            "id": "3a96",
-            "points": 107
-          },
-          {
-            "id": "2e6b",
-            "points": 98
-          }
-        ]
-      },
-      "second": {
-        "tag": "Lunatic_",
-        "points": 182,
-        "players": [
-          {
-            "id": "2229",
-            "points": 101
-          },
-          {
-            "id": "23d2",
-            "points": 81
-          }
-        ]
-      },
-      "third": {
-        "tag": "code:",
-        "points": 175,
-        "players": [
-          {
-            "id": "26f4",
-            "points": 95
-          },
-          {
-            "id": "2e64",
-            "points": 80
-          }
-        ]
-      },
-      "fourth": {
-        "tag": "ority",
-        "points": 144,
-        "players": [
-          {
-            "id": "2e83",
-            "points": 80
-          },
-          {
-            "id": "3997",
-            "points": 64
-          }
-        ]
-      },
-      "fifth": {
-        "tag": "【γ】",
-        "points": 142,
-        "players": [
-          {
-            "id": "3379",
-            "points": 88
-          },
-          {
-            "id": "3816",
-            "points": 54
-          }
-        ]
-      },
-      "sixth": {
-        "tag": "L`s☆",
-        "points": 136,
-        "players": [
-          {
-            "id": "3066",
-            "points": 68
-          },
-          {
-            "id": "2f14",
-            "points": 68
-          }
-        ]
-      }
-    }
+    "winners": [
+      "3a96",
+      "2e6b"
+    ]
   },
   {
     "title": "MKCentral SUMMIT FFA #10",
     "title_shorter": "FFA #10",
     "id": "c1010",
-    "author": "MKCentral",
+    "host": "MKCentral",
     "format": 1,
+    "number": 10,
     "url": "https://www.mariokartcentral.com/forums/index.php?threads/mkcentral-summit-ffa-10-1-14-1-15.18223/",
     "date": "2023-01-15",
-    "finals": {
-      "first": {
-        "tag": "ヴィクトワールピサ",
-        "points": 119,
-        "players": [
-          {
-            "id": "4dda",
-            "points": 119
-          }
-        ]
-      },
-      "second": {
-        "tag": "ウサギはくしゃく",
-        "points": 95,
-        "players": [
-          {
-            "id": "3022",
-            "points": 95
-          }
-        ]
-      },
-      "third": {
-        "tag": "ま",
-        "points": 92,
-        "players": [
-          {
-            "id": "32c6",
-            "points": 92
-          }
-        ]
-      },
-      "fourth": {
-        "tag": "alati",
-        "points": 90,
-        "players": [
-          {
-            "id": "2229",
-            "points": 90
-          }
-        ]
-      },
-      "fifth": {
-        "tag": "Flowx",
-        "points": 87,
-        "players": [
-          {
-            "id": "2954",
-            "points": 87
-          }
-        ]
-      },
-      "sixth": {
-        "tag": "gfuelinme",
-        "points": 79,
-        "players": [
-          {
-            "id": "3a96",
-            "points": 79
-          }
-        ]
-      },
-      "seventh": {
-        "tag": "teenager",
-        "points": 78,
-        "players": [
-          {
-            "id": "3361",
-            "points": 78
-          }
-        ]
-      },
-      "eighth": {
-        "tag": "IA",
-        "points": 75,
-        "players": [
-          {
-            "id": "3717",
-            "points": 75
-          }
-        ]
-      },
-      "ninth": {
-        "tag": "TRISHULA.",
-        "points": 73,
-        "players": [
-          {
-            "id": "3c0c",
-            "points": 73
-          }
-        ]
-      },
-      "tenth": {
-        "tag": "sx",
-        "points": 72,
-        "players": [
-          {
-            "id": "42b2",
-            "points": 72
-          }
-        ]
-      },
-      "eleventh": {
-        "tag": "たけし",
-        "points": 66,
-        "players": [
-          {
-            "id": "43ea",
-            "points": 66
-          }
-        ]
-      },
-      "twelfth": {
-        "tag": "チェウォンがまってる",
-        "points": 58,
-        "players": [
-          {
-            "id": "5229",
-            "points": 58
-          }
-        ]
-      }
-    }
+    "winners": [
+      "4dda"
+    ]
   }
 ]
