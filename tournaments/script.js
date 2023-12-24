@@ -66,15 +66,11 @@ $(function () {
             let playerText = ''
             for (let j in teamData.player) {
               const playerData = teamData.player[j];
-              let pId = playerData.id;
+              const pId = playerData.id;
               const pPoints = playerData.points;
               const pRank = playerData.rank;
-              let pName = getPlayerName(plyr, pId);
-              if (pName === undefined) {
-                pId = '';
-                pName = '-';
-              }
-              playerText += `<div class="player-block"><span class="name"><a href= "/players/?=${pId}">${pName}</a></span><span class="points">${pPoints}</span><span class="rank">${enRankList[pRank]}</span></div>`
+              const pName = getPlayerName(plyr, pId);
+              playerText += `<div class="player-block"><span class="name">${pName}</span><span class="points">${pPoints}</span><span class="rank">${enRankList[pRank]}</span></div>`
             }
             finalsTableText += `<div class="team-result" id="${rankIdList[tRank]}"><div class="team-rank"><span>${jaRankList[tRank]}</span></div><div class="tag"><span>${tag}</span>${tPointsText}</div><div class="player-result">${playerText}</div></div>`;
           }

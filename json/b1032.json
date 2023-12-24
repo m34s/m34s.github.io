@@ -1,0 +1,159 @@
+{
+    "title": "第32回個人杯",
+    "title_shorter": "32個人",
+    "id": "b1032",
+    "host": "MKB",
+    "format": 1,
+    "number": 32,
+    "url": "http://japan-mk.blog.jp/mk8dx.result-199",
+    "date": "2023-12-25",
+    "winners": [
+        "24e3"
+    ],
+    "finals": [
+        {
+            "tag": "キュアスカイ",
+            "points": 97,
+            "rank": 1,
+            "player": [
+                {
+                    "id": "24e3",
+                    "points": 97,
+                    "rank": 1
+                }
+            ]
+        },
+        {
+            "tag": "Nosferatu",
+            "points": 96,
+            "rank": 2,
+            "player": [
+                {
+                    "id": "2dc3",
+                    "points": 96,
+                    "rank": 2
+                }
+            ]
+        },
+        {
+            "tag": "Xa",
+            "points": 92,
+            "rank": 3,
+            "player": [
+                {
+                    "id": "530c",
+                    "points": 92,
+                    "rank": 3
+                }
+            ]
+        },
+        {
+            "tag": "マイファスだいすき☆",
+            "points": 91,
+            "rank": 4,
+            "player": [
+                {
+                    "id": "2704",
+                    "points": 91,
+                    "rank": 4
+                }
+            ]
+        },
+        {
+            "tag": "stoverttc",
+            "points": 87,
+            "rank": 5,
+            "player": [
+                {
+                    "id": "4e0b",
+                    "points": 87,
+                    "rank": 5
+                }
+            ]
+        },
+        {
+            "tag": "こんやこのまま。",
+            "points": 85,
+            "rank": 6,
+            "player": [
+                {
+                    "id": "2e5c",
+                    "points": 85,
+                    "rank": 6
+                }
+            ]
+        },
+        {
+            "tag": "シンデレラ",
+            "points": 84,
+            "rank": 7,
+            "player": [
+                {
+                    "id": "6e52",
+                    "points": 84,
+                    "rank": 7
+                }
+            ]
+        },
+        {
+            "tag": "おかだあきのぶ",
+            "points": 84,
+            "rank": 7,
+            "player": [
+                {
+                    "id": "4551",
+                    "points": 84,
+                    "rank": 7
+                }
+            ]
+        },
+        {
+            "tag": "マリーシア",
+            "points": 79,
+            "rank": 9,
+            "player": [
+                {
+                    "id": "2240",
+                    "points": 79,
+                    "rank": 9
+                }
+            ]
+        },
+        {
+            "tag": "pipipiQ",
+            "points": 74,
+            "rank": 10,
+            "player": [
+                {
+                    "id": "8d92",
+                    "points": 74,
+                    "rank": 10
+                }
+            ]
+        },
+        {
+            "tag": "LonePi",
+            "points": 66,
+            "rank": 11,
+            "player": [
+                {
+                    "id": "32c6",
+                    "points": 66,
+                    "rank": 11
+                }
+            ]
+        },
+        {
+            "tag": "すずき　だいすけ",
+            "points": 49,
+            "rank": 12,
+            "player": [
+                {
+                    "id": "3379",
+                    "points": 49,
+                    "rank": 12
+                }
+            ]
+        }
+    ]
+}

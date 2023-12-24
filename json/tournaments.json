@@ -1,12 +1,25 @@
 [
   {
+    "title": "第32回個人杯",
+    "title_shorter": "32個人",
+    "id": "b1032",
+    "host": "MKB",
+    "format": 1,
+    "number": 32,
+    "url": "http://japan-mk.blog.jp/mk8dx.result-199",
+    "date": "2023-12-25",
+    "winners": [
+      "24e3"
+    ]
+  },
+  {
     "title": "第28回タッグ杯",
     "title_shorter": "28タッグ",
     "id": "b2028",
     "host": "MKB",
     "format": 2,
     "number": 28,
-    "url": "https://www.mariokartcentral.com/forums/index.php?threads/mkcentral-summit-3v3-14-11-25-11-26.20408/",
+    "url": "http://japan-mk.blog.jp/mk8dx.result-189",
     "date": "2023-12-03",
     "winners": [
       "32c6",
