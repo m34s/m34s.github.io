@@ -1,0 +1,105 @@
+{
+    "title": "MKCentral SUMMIT 3v3 #14",
+    "title_shorter": "3v3 #14",
+    "id": "c3014",
+    "host": "MKCentral",
+    "format": 3,
+    "number": 14,
+    "url": "https://www.mariokartcentral.com/forums/index.php?threads/mkcentral-summit-3v3-14-11-25-11-26.20408/",
+    "date": "2023-11-26",
+    "winners": [
+        "2290",
+        "3997",
+        "3816"
+    ],
+    "finals": [
+        {
+            "tag": "アッカーマン",
+            "points": 260,
+            "rank": 1,
+            "player": [
+                {
+                    "id": "3816",
+                    "points": 131,
+                    "rank": 1
+                },
+                {
+                    "id": "2290",
+                    "points": 65,
+                    "rank": 11
+                },
+                {
+                    "id": "3997",
+                    "points": 64,
+                    "rank": 12
+                }
+            ]
+        },
+        {
+            "tag": "eon",
+            "points": 253,
+            "rank": 2,
+            "player": [
+                {
+                    "id": "24c2",
+                    "points": 97,
+                    "rank": 2
+                },
+                {
+                    "id": "23d2",
+                    "points": 88,
+                    "rank": 3
+                },
+                {
+                    "id": "2da6",
+                    "points": 68,
+                    "rank": 10
+                }
+            ]
+        },
+        {
+            "tag": "dikos",
+            "points": 236,
+            "rank": 3,
+            "player": [
+                {
+                    "id": "3fef",
+                    "points": 84,
+                    "rank": 5
+                },
+                {
+                    "id": "4415",
+                    "points": 76,
+                    "rank": 7
+                },
+                {
+                    "id": "3078",
+                    "points": 76,
+                    "rank": 7
+                }
+            ]
+        },
+        {
+            "tag": "__",
+            "points": 235,
+            "rank": 4,
+            "player": [
+                {
+                    "id": "4daf",
+                    "points": 88,
+                    "rank": 3
+                },
+                {
+                    "id": "3361",
+                    "points": 78,
+                    "rank": 6
+                },
+                {
+                    "id": "20db",
+                    "points": 69,
+                    "rank": 9
+                }
+            ]
+        }
+    ]
+}

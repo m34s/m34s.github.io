@@ -34,7 +34,7 @@ $(function () {
             winners.push(getPlayerName(plyr, tnm[i].winners[j]));
           }
           const winnersText = '🥇 ' + winners.join(' ');
-          htmlText += `<div class="tournament-block"><div class="tournament-title"><a href="index.html?id=${tnm[i].id}">${dateText} - ${title}</a></div><div class="tournament-winner">${winnersText}</div></div>`
+          htmlText += `<div class="tournament-block"><div class="tournament-title"><a href="index.html?id=${tnm[i].id}">${title} - ${dateText}</a></div><div class="tournament-winner">${winnersText}</div></div>`
         }
         $('h2#title').html('決勝結果一覧');
         $('div#list').html(htmlText);
@@ -48,12 +48,11 @@ $(function () {
         const [year, month, day] = data.date.split('-');
         const date = `${year}年${month}月${day}日`
         const url = data.url;
-        $('h2#title').html(title + ' 大会結果');
+        $('h2#title').html(title + ' 決勝結果');
         $('div#comment').html(`<p>主催は${host}、形式は${format}、決勝日は${date}。</p><p>→<a href="${url}" target="_blank" rel="noopener noreferrer">大会サイト</a></p>`)
 
         let finalsTableText = '';
-
-        $.getJSON(`/json/${tnmId}.json`, function (tnmDetail) {
+        $.getJSON(`/json/finals/${tnmId}.json`, function (tnmDetail) {
           for (let i in tnmDetail.finals) {
             const teamData = tnmDetail.finals[i];
             const tag = teamData.tag;
@@ -69,13 +68,26 @@ $(function () {
               const pId = playerData.id;
               const pPoints = playerData.points;
               const pRank = playerData.rank;
-              const pName = getPlayerName(plyr, pId);
-              playerText += `<div class="player-block"><span class="name">${pName}</span><span class="points">${pPoints}</span><span class="rank">${enRankList[pRank]}</span></div>`
+              let pName = getPlayerName(plyr, pId);
+              if (pName) {
+                pName = `<a href="/players/?id=${pId}">${pName}</a>`;
+              } else {
+                pName = '##';
+              } 
+              if (data.format == 1) {
+                playerText += `<div class="ffa-player-block"><span class="name">${pName}</span><span class="points">${pPoints}</span></div>`
+              } else {
+                playerText += `<div class="player-block"><span class="name">${pName}</span><span class="points">${pPoints}</span><span class="rank">${enRankList[pRank]}</span></div>`
+              }
+              
             }
-            finalsTableText += `<div class="team-result" id="${rankIdList[tRank]}"><div class="team-rank"><span>${jaRankList[tRank]}</span></div><div class="tag"><span>${tag}</span>${tPointsText}</div><div class="player-result">${playerText}</div></div>`;
+            let ffa = '';
+            if (data.format == 1) { ffa = 'ffa-' };
+            finalsTableText += `<div class="team-result" id="${rankIdList[tRank]}"><div class="team-rank"><span>${jaRankList[tRank]}</span></div><div class="${ffa}tag"><span>${tag}</span>${tPointsText}</div><div class="player-result">${playerText}</div></div>`;
           }
           $('div#finals-table').html(finalsTableText)
         })
+        
       }
     })
   })

@@ -20,6 +20,9 @@
   margin: 0 auto;
   width: 24.8rem;
 }
+#finals-table a{
+  text-decoration: none;
+}
 #first {
   color: #b59b07;
 }
@@ -50,11 +53,19 @@
   flex-direction: column;
   text-align: center;
 }
+.ffa-tag {
+  width: 11.2rem;
+  flex-direction: column;
+  text-align: center;
+}
 .player-result span {
   display: inline-block;
 }
 .player-block {
   width: 13.2rem;
+}
+.ffa-player-block {
+  width: 10rem;
 }
 .name {
   width: 8rem;

@@ -1,0 +1,118 @@
+{
+    "title": "第28回タッグ杯",
+    "title_shorter": "28タッグ",
+    "id": "b2028",
+    "host": "MKB",
+    "format": 2,
+    "number": 28,
+    "url": "http://japan-mk.blog.jp/mk8dx.result-189",
+    "date": "2023-12-03",
+    "winners": [
+        "32c6",
+        "5292"
+    ],
+    "finals": [
+        {
+            "tag": "ふわ",
+            "points": 202,
+            "rank": 1,
+            "player": [
+                {
+                    "id": "5292",
+                    "points": 111,
+                    "rank": 1
+                },
+                {
+                    "id": "32c6",
+                    "points": 91,
+                    "rank": 4
+                }
+            ]
+        },
+        {
+            "tag": "dile",
+            "points": 193,
+            "rank": 2,
+            "player": [
+                {
+                    "id": "36e1",
+                    "points": 111,
+                    "rank": 1
+                },
+                {
+                    "id": "34e1",
+                    "points": 82,
+                    "rank": 6
+                }
+            ]
+        },
+        {
+            "tag": "ロンにゃ",
+            "points": 151,
+            "rank": 3,
+            "player": [
+                {
+                    "id": "26ae",
+                    "points": 96,
+                    "rank": 3
+                },
+                {
+                    "id": "27ef",
+                    "points": 55,
+                    "rank": 11
+                }
+            ]
+        },
+        {
+            "tag": "たちばな",
+            "points": 147,
+            "rank": 4,
+            "player": [
+                {
+                    "id": "20f6",
+                    "points": 76,
+                    "rank": 8
+                },
+                {
+                    "id": "5dbd",
+                    "points": 71,
+                    "rank": 9
+                }
+            ]
+        },
+        {
+            "tag": "R*",
+            "points": 146,
+            "rank": 5,
+            "player": [
+                {
+                    "id": "2540",
+                    "points": 82,
+                    "rank": 6
+                },
+                {
+                    "id": "597e",
+                    "points": 64,
+                    "rank": 10
+                }
+            ]
+        },
+        {
+            "tag": "ももてつ☆",
+            "points": 145,
+            "rank": 6,
+            "player": [
+                {
+                    "id": "20e5",
+                    "points": 91,
+                    "rank": 4
+                },
+                {
+                    "id": "6e52",
+                    "points": 54,
+                    "rank": 12
+                }
+            ]
+        }
+    ]
+}
