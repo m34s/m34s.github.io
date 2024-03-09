@@ -44,22 +44,22 @@
       "2ff6"
     ]
   },
-  {
-    "title": "第15回フォーマンセル杯",
-    "title_shorter": "15フォーマン",
-    "id": "b4015",
-    "host": "MKB",
-    "format": 4,
-    "number": 15,
-    "url": "http://japan-mk.blog.jp/mk8dx.result-203",
-    "date": "2024-01-28",
-    "winners": [
-      "3e43",
-      "3c60",
-      "417f",
-      "8054"
-    ]
-  },
+    {
+        "title": "第15回フォーマンセル杯",
+        "title_shorter": "15フォーマン",
+        "id": "b4015",
+        "host": "MKB",
+        "format": 4,
+        "number": 15,
+        "url": "http://japan-mk.blog.jp/mk8dx.result-203",
+        "date": "2024-01-28",
+        "winners": [
+            "502e",
+            "30de",
+            "3da7",
+            "7332"
+        ]
+    },
   {
     "title": "MKCentral SUMMIT FFA #15",
     "title_shorter": "FFA #15",
