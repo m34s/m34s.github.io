@@ -33,7 +33,7 @@ $(function () {
           for (let j in tnm[i].winners) {
             winners.push(getPlayerName(plyr, tnm[i].winners[j]));
           }
-          htmlText += `<div class="tournament-block"><div class="tournament-title"><a href="index.html?id=${tnm[i].id}">${title} - ${dateText}</a></div></div>`
+          htmlText += `<div class="tournament-block"><div class="tournament-title"><a href="index.html?id=${tnm[i].id}">${title} - ${dateText}</a></div></div><p>・歴代優勝者一覧は<a href="https://docs.google.com/spreadsheets/d/1O3X3ssAhfyv43qutWwmBHZzn6Ggi8w74PDdCdTPeyQ8/edit#gid=0" target="_blank" rel="noopener noreferrer">こちら</a></p></p>`
         }
         $('h2#title').html('決勝結果一覧');
         $('div#list').html(htmlText);
@@ -47,6 +47,7 @@ $(function () {
         const [year, month, day] = data.date.split('-');
         const date = `${year}年${month}月${day}日`
         const url = data.url;
+        document.title = title + ' 大会結果 | そらまめ【MK8DX大会まとめ】'
         $('h2#title').html(title + ' 決勝結果');
         $('div#comment').html(`<p>主催は${host}、形式は${format}、決勝日は${date}。</p><p>→<a href="${url}" target="_blank" rel="noopener noreferrer">大会サイト</a></p>`)
 
