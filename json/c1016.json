@@ -1,0 +1,161 @@
+{
+    "title": "MKCentral SUMMIT FFA #16",
+    "title_shorter": "FFA #16",
+    "id": "c1016",
+    "host": "MKCentral",
+    "format": 1,
+    "number": 16,
+    "url": "https://www.mariokartcentral.com/forums/index.php?threads/mkcentral-summit-ffa-16-4-6-4-7.21551/",
+    "date": "2024-04-07",
+    "winners": [
+        "2431",
+        "2ff6",
+        "4578"
+    ],
+    "finals": [
+        {
+            "tag": "ぎゃくしゅうのとき！",
+            "points": 98,
+            "rank": 1,
+            "player": [
+                {
+                    "id": "2431",
+                    "points": 98,
+                    "rank": 1
+                }
+            ]
+        },
+        {
+            "tag": "オウムアムア",
+            "points": 98,
+            "rank": 1,
+            "player": [
+                {
+                    "id": "2ff6",
+                    "points": 98,
+                    "rank": 1
+                }
+            ]
+        },
+        {
+            "tag": "Dすけ 96000",
+            "points": 98,
+            "rank": 1,
+            "player": [
+                {
+                    "id": "4578",
+                    "points": 98,
+                    "rank": 1
+                }
+            ]
+        },
+        {
+            "tag": "Chronomia",
+            "points": 95,
+            "rank": 4,
+            "player": [
+                {
+                    "id": "3816",
+                    "points": 95,
+                    "rank": 4
+                }
+            ]
+        },
+        {
+            "tag": "r",
+            "points": 94,
+            "rank": 5,
+            "player": [
+                {
+                    "id": "32c6",
+                    "points": 94,
+                    "rank": 5
+                }
+            ]
+        },
+        {
+            "tag": "まつけい",
+            "points": 89,
+            "rank": 6,
+            "player": [
+                {
+                    "id": "3361",
+                    "points": 89,
+                    "rank": 6
+                }
+            ]
+        },
+        {
+            "tag": "Razhore",
+            "points": 87,
+            "rank": 7,
+            "player": [
+                {
+                    "id": "3fef",
+                    "points": 87,
+                    "rank": 7
+                }
+            ]
+        },
+        {
+            "tag": "MarbleBlue",
+            "points": 75,
+            "rank": 8,
+            "player": [
+                {
+                    "id": "5c87",
+                    "points": 75,
+                    "rank": 8
+                }
+            ]
+        },
+        {
+            "tag": "Deb4ho-dri",
+            "points": 71,
+            "rank": 9,
+            "player": [
+                {
+                    "id": "4cf9",
+                    "points": 71,
+                    "rank": 9
+                }
+            ]
+        },
+        {
+            "tag": "Komachi",
+            "points": 71,
+            "rank": 9,
+            "player": [
+                {
+                    "id": "4380",
+                    "points": 71,
+                    "rank": 9
+                }
+            ]
+        },
+        {
+            "tag": "ミライ",
+            "points": 64,
+            "rank": 11,
+            "player": [
+                {
+                    "id": "3379",
+                    "points": 64,
+                    "rank": 11
+                }
+            ]
+        },
+        {
+            "tag": "まりんぬ2ごう",
+            "points": 44,
+            "rank": 12,
+            "player": [
+                {
+                    "id": "3e43",
+                    "points": 44,
+                    "rank": 12
+                }
+            ]
+        }
+    ]
+}
