@@ -1,0 +1,118 @@
+{
+    "title": "MKCentral SUMMIT 2v2 #16",
+    "title_shorter": "2v2 #16",
+    "id": "c2016",
+    "host": "MKCentral",
+    "format": 2,
+    "number": 16,
+    "url": "https://www.mariokartcentral.com/forums/index.php?threads/mkcentral-summit-2v2-16-3-23-3-24.21394/",
+    "date": "2024-03-24",
+    "winners": [
+        "3d7f",
+        "42b2"
+    ],
+    "finals": [
+        {
+            "tag": "xlx",
+            "points": 182,
+            "rank": 1,
+            "player": [
+                {
+                    "id": "42b2",
+                    "points": 93,
+                    "rank": 3
+                },
+                {
+                    "id": "3d7f",
+                    "points": 89,
+                    "rank": 5
+                }
+            ]
+        },
+        {
+            "tag": "Dすけ",
+            "points": 178,
+            "rank": 2,
+            "player": [
+                {
+                    "id": "4578",
+                    "points": 92,
+                    "rank": 4
+                },
+                {
+                    "id": "3816",
+                    "points": 86,
+                    "rank": 7
+                }
+            ]
+        },
+        {
+            "tag": "RR★",
+            "points": 176,
+            "rank": 3,
+            "player": [
+                {
+                    "id": "32c6",
+                    "points": 94,
+                    "rank": 2
+                },
+                {
+                    "id": "2ff6",
+                    "points": 82,
+                    "rank": 8
+                }
+            ]
+        },
+        {
+            "tag": "Jack",
+            "points": 170,
+            "rank": 4,
+            "player": [
+                {
+                    "id": "4311",
+                    "points": 101,
+                    "rank": 1
+                },
+                {
+                    "id": "2e6b",
+                    "points": 69,
+                    "rank": 10
+                }
+            ]
+        },
+        {
+            "tag": "nぼう",
+            "points": 165,
+            "rank": 5,
+            "player": [
+                {
+                    "id": "6b15",
+                    "points": 89,
+                    "rank": 5
+                },
+                {
+                    "id": "7032",
+                    "points": 76,
+                    "rank": 9
+                }
+            ]
+        },
+        {
+            "tag": "マット",
+            "points": 113,
+            "rank": 6,
+            "player": [
+                {
+                    "id": "6e52",
+                    "points": 62,
+                    "rank": 11
+                },
+                {
+                    "id": "3022",
+                    "points": 51,
+                    "rank": 12
+                }
+            ]
+        }
+    ]
+}
