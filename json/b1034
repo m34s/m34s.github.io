@@ -1,0 +1,159 @@
+{
+    "title": "7周年大規模個人杯",
+    "title_shorter": "7周年個人",
+    "id": "b1034",
+    "host": "MKB",
+    "format": 1,
+    "number": 34,
+    "url": "http://japan-mk.blog.jp/mk8dx.result-211",
+    "date": "2024-04-28",
+    "winners": [
+        "30de"
+    ],
+    "finals": [
+        {
+            "tag": "まっちゃぷりん",
+            "points": 106,
+            "rank": 1,
+            "player": [
+                {
+                    "id": "30de",
+                    "points": 106,
+                    "rank": 1
+                }
+            ]
+        },
+        {
+            "tag": "Chronomia",
+            "points": 102,
+            "rank": 2,
+            "player": [
+                {
+                    "id": "3816",
+                    "points": 102,
+                    "rank": 2
+                }
+            ]
+        },
+        {
+            "tag": "こゆき",
+            "points": 96,
+            "rank": 3,
+            "player": [
+                {
+                    "id": "3e43",
+                    "points": 96,
+                    "rank": 3
+                }
+            ]
+        },
+        {
+            "tag": "あすはら　ユウキ",
+            "points": 84,
+            "rank": 4,
+            "player": [
+                {
+                    "id": "2f14",
+                    "points": 84,
+                    "rank": 4
+                }
+            ]
+        },
+        {
+            "tag": "コウコウまじほんもの",
+            "points": 83,
+            "rank": 5,
+            "player": [
+                {
+                    "id": "2fa2",
+                    "points": 83,
+                    "rank": 5
+                }
+            ]
+        },
+        {
+            "tag": "チャージズマ",
+            "points": 83,
+            "rank": 5,
+            "player": [
+                {
+                    "id": "4311",
+                    "points": 83,
+                    "rank": 5
+                }
+            ]
+        },
+        {
+            "tag": "いんたい",
+            "points": 79,
+            "rank": 7,
+            "player": [
+                {
+                    "id": "8054",
+                    "points": 79,
+                    "rank": 7
+                }
+            ]
+        },
+        {
+            "tag": "Nadir",
+            "points": 79,
+            "rank": 7,
+            "player": [
+                {
+                    "id": "3997",
+                    "points": 79,
+                    "rank": 7
+                }
+            ]
+        },
+        {
+            "tag": "Garden",
+            "points": 71,
+            "rank": 9,
+            "player": [
+                {
+                    "id": "6b15",
+                    "points": 71,
+                    "rank": 9
+                }
+            ]
+        },
+        {
+            "tag": "Panorama",
+            "points": 70,
+            "rank": 10,
+            "player": [
+                {
+                    "id": "3717",
+                    "points": 70,
+                    "rank": 10
+                }
+            ]
+        },
+        {
+            "tag": "Valer",
+            "points": 69,
+            "rank": 11,
+            "player": [
+                {
+                    "id": "3fef",
+                    "points": 69,
+                    "rank": 11
+                }
+            ]
+        },
+        {
+            "tag": "あさなぎ うみ",
+            "points": 62,
+            "rank": 12,
+            "player": [
+                {
+                    "id": "5c00",
+                    "points": 62,
+                    "rank": 12
+                }
+            ]
+        }
+    ]
+}
