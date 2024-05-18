@@ -33,8 +33,9 @@ $(function () {
           for (let j in tnm[i].winners) {
             winners.push(getPlayerName(plyr, tnm[i].winners[j]));
           }
-          htmlText += `<div class="tournament-block"><div class="tournament-title"><a href="index.html?id=${tnm[i].id}">${title} - ${dateText}</a></div></div><p>・歴代優勝者一覧は<a href="https://docs.google.com/spreadsheets/d/1O3X3ssAhfyv43qutWwmBHZzn6Ggi8w74PDdCdTPeyQ8/edit#gid=0" target="_blank" rel="noopener noreferrer">こちら</a></p></p>`
+          htmlText += `<div class="tournament-block"><div class="tournament-title"><a href="index.html?id=${tnm[i].id}">${title} - ${dateText}</a></div></div>`
         }
+        htmlText += `<p>・歴代優勝者一覧は<a href="https://docs.google.com/spreadsheets/d/1O3X3ssAhfyv43qutWwmBHZzn6Ggi8w74PDdCdTPeyQ8/edit#gid=0" target="_blank" rel="noopener noreferrer">こちら</a></p>`
         $('h2#title').html('決勝結果一覧');
         $('div#list').html(htmlText);
       } else {
