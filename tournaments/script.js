@@ -33,8 +33,7 @@ $(function () {
           for (let j in tnm[i].winners) {
             winners.push(getPlayerName(plyr, tnm[i].winners[j]));
           }
-          const winnersText = '🥇 ' + winners.join(' ');
-          htmlText += `<div class="tournament-block"><div class="tournament-title"><a href="index.html?id=${tnm[i].id}">${title} - ${dateText}</a></div><div class="tournament-winner">${winnersText}</div></div>`
+          htmlText += `<div class="tournament-block"><div class="tournament-title"><a href="index.html?id=${tnm[i].id}">${title} - ${dateText}</a></div></div>`
         }
         $('h2#title').html('決勝結果一覧');
         $('div#list').html(htmlText);
