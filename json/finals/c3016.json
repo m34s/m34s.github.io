@@ -1,0 +1,105 @@
+{
+    "title": "MKCentral SUMMIT 3v3 #16",
+    "title_shorter": "3v3 #16",
+    "id": "c3016",
+    "host": "MKCentral",
+    "format": 3,
+    "number": 16,
+    "url": "https://www.mariokartcentral.com/forums/index.php?threads/mkcentral-summit-3v3-16-5-25-5-26.22256/",
+    "date": "2024-05-26",
+    "winners": [
+        "5292",
+        "4578",
+        "3997"
+    ],
+    "finals": [
+        {
+            "tag": "N/",
+            "points": 276,
+            "rank": 1,
+            "player": [
+                {
+                    "id": "5292",
+                    "points": 103,
+                    "rank": 1
+                },
+                {
+                    "id": "4578",
+                    "points": 90,
+                    "rank": 4
+                },
+                {
+                    "id": "3997",
+                    "points": 83,
+                    "rank": 6
+                }
+            ]
+        },
+        {
+            "tag": "RR★",
+            "points": 253,
+            "rank": 2,
+            "player": [
+                {
+                    "id": "2ff6",
+                    "points": 94,
+                    "rank": 2
+                },
+                {
+                    "id": "3379",
+                    "points": 84,
+                    "rank": 5
+                },
+                {
+                    "id": "2704",
+                    "points": 75,
+                    "rank": 10
+                }
+            ]
+        },
+        {
+            "tag": "Mortals",
+            "points": 242,
+            "rank": 3,
+            "player": [
+                {
+                    "id": "3816",
+                    "points": 94,
+                    "rank": 2
+                },
+                {
+                    "id": "2e6b",
+                    "points": 77,
+                    "rank": 9
+                },
+                {
+                    "id": "4311",
+                    "points": 71,
+                    "rank": 11
+                }
+            ]
+        },
+        {
+            "tag": "Mr.",
+            "points": 213,
+            "rank": 4,
+            "player": [
+                {
+                    "id": "4415",
+                    "points": 82,
+                    "rank": 7
+                },
+                {
+                    "id": "3078",
+                    "points": 82,
+                    "rank": 7
+                },
+                {
+                    "id": "42bd",
+                    "points": 49,
+                    "rank": 12
+                }
+            ]
+        }
+    ]
+}
