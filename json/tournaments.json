@@ -142,5 +142,415 @@
         "winners": [
             "42b2"
         ]
+    },
+    {
+        "title": "MKCentral SUMMIT FFA #25",
+        "title_shorter": "FFA #25",
+        "id": "c1025",
+        "host": "MKCentral",
+        "format": 1,
+        "number": 25,
+        "url": "http://japan-mk.blog.jp/mk8dx.result-199",
+        "date": "2023-12-25",
+        "winners": [
+            null,
+            null
+        ]
+    },
+    {
+        "title": "第32回個人杯",
+        "title_shorter": "32個人",
+        "id": "b1032",
+        "host": "MKB",
+        "format": 1,
+        "number": 32,
+        "url": "http://japan-mk.blog.jp/mk8dx.result-199",
+        "date": "2023-12-25",
+        "winners": [
+            "24e3"
+        ]
+    },
+    {
+        "title": "第28回タッグ杯",
+        "title_shorter": "28タッグ",
+        "id": "b2028",
+        "host": "MKB",
+        "format": 2,
+        "number": 28,
+        "url": "http://japan-mk.blog.jp/mk8dx.result-189",
+        "date": "2023-12-03",
+        "winners": [
+            "32c6",
+            "5292"
+        ]
+    },
+    {
+        "title": "MKCentral SUMMIT 3v3 #14",
+        "title_shorter": "3v3 #14",
+        "id": "c3014",
+        "host": "MKCentral",
+        "format": 3,
+        "number": 14,
+        "url": "https://www.mariokartcentral.com/forums/index.php?threads/mkcentral-summit-3v3-14-11-25-11-26.20408/",
+        "date": "2023-11-26",
+        "winners": [
+            "2290",
+            "3997",
+            "3816"
+        ]
+    },
+    {
+        "title": "MKCentral SUMMIT 2v2 #14",
+        "title_shorter": "2v2 #14",
+        "id": "c2014",
+        "host": "MKCentral",
+        "format": 2,
+        "number": 14,
+        "url": "https://www.mariokartcentral.com/forums/index.php?threads/mkcentral-summit-2v2-14-11-11-12.20530/",
+        "date": "2023-11-12",
+        "winners": [
+            "2ac7",
+            "3eee"
+        ]
+    },
+    {
+        "title": "MKCentral SUMMIT FFA #14",
+        "title_shorter": "FFA #14",
+        "id": "c1014",
+        "host": "MKCentral",
+        "format": 1,
+        "number": 14,
+        "url": "https://www.mariokartcentral.com/forums/index.php?threads/mkcentral-summit-ffa-14-10-28-10-29.20406/",
+        "date": "2023-10-29",
+        "winners": [
+            "2f14"
+        ]
+    },
+    {
+        "title": "第27回タッグ杯",
+        "title_shorter": "27タッグ",
+        "id": "b2027",
+        "host": "MKB",
+        "format": 2,
+        "number": 27,
+        "url": "http://japan-mk.blog.jp/mk8dx.result-193",
+        "date": "2023-10-22",
+        "winners": [
+            "3c60",
+            "3997"
+        ]
+    },
+    {
+        "title": "MKCentral SUMMIT 3v3 #13",
+        "title_shorter": "3v3 #13",
+        "id": "c3013",
+        "host": "MKCentral",
+        "format": 3,
+        "number": 13,
+        "url": "https://www.mariokartcentral.com/forums/index.php?threads/mkcentral-summit-3v3-13-10-14-10-15.20081/",
+        "date": "2023-10-15",
+        "winners": [
+            "2e6b",
+            "2229",
+            "32c6"
+        ]
+    },
+    {
+        "title": "第31回個人杯",
+        "title_shorter": "31個人",
+        "id": "b1031",
+        "host": "MKB",
+        "format": 1,
+        "number": 31,
+        "url": "http://japan-mk.blog.jp/mk8dx.result-191",
+        "date": "2023-09-30",
+        "winners": [
+            "2da6"
+        ]
+    },
+    {
+        "title": "MKCentral SUMMIT 2v2 #13",
+        "title_shorter": "2v2 #13",
+        "id": "c2013",
+        "host": "MKCentral",
+        "format": 2,
+        "number": 13,
+        "url": "https://www.mariokartcentral.com/forums/index.php?threads/mkcentral-summit-2v2-13-9-23-9-24.20080/",
+        "date": "2023-09-24",
+        "winners": [
+            "2290",
+            "3816",
+            "23d2",
+            "2229"
+        ]
+    },
+    {
+        "title": "MKCentral SUMMIT FFA #13",
+        "title_shorter": "FFA #13",
+        "id": "c1013",
+        "host": "MKCentral",
+        "format": 1,
+        "number": 13,
+        "url": "https://www.mariokartcentral.com/forums/index.php?threads/mkcentral-summit-2v2-13-9-23-9-24.20080/",
+        "date": "2023-09-10",
+        "winners": [
+            "3816"
+        ]
+    },
+    {
+        "title": "第18回トリプルス杯",
+        "title_shorter": "18プルス",
+        "id": "b3018",
+        "host": "MKB",
+        "format": 3,
+        "number": 18,
+        "url": "http://japan-mk.blog.jp/mk8dx.result-189",
+        "date": "2023-09-03",
+        "winners": [
+            "4415",
+            "42b2",
+            "42c3"
+        ]
+    },
+    {
+        "title": "第26回タッグ杯",
+        "title_shorter": "26タッグ",
+        "id": "b2026",
+        "host": "MKB",
+        "format": 2,
+        "number": 26,
+        "url": "http://japan-mk.blog.jp/mk8dx.result-188",
+        "date": "2023-08-12",
+        "winners": [
+            "2290",
+            "33af"
+        ]
+    },
+    {
+        "title": "MKCentral SUMMIT 4v4 #6",
+        "title_shorter": "4v4 #6",
+        "id": "c4006",
+        "host": "MKCentral",
+        "format": 4,
+        "number": 6,
+        "url": "http://japan-mk.blog.jp/mk8dx.result-188",
+        "date": "2023-08-06",
+        "winners": [
+            "3379",
+            "42bd",
+            "4415",
+            "2ff6"
+        ]
+    },
+    {
+        "title": "第30回個人杯",
+        "title_shorter": "30個人",
+        "id": "b1030",
+        "host": "MKB",
+        "format": 1,
+        "number": 30,
+        "url": "http://japan-mk.blog.jp/mk8dx.result-186",
+        "date": "2023-07-29",
+        "winners": [
+            "254f"
+        ]
+    },
+    {
+        "title": "MKCentral SUMMIT 3v3 #12",
+        "title_shorter": "3v3 #12",
+        "id": "c3012",
+        "host": "MKCentral",
+        "format": 3,
+        "number": 12,
+        "url": "http://japan-mk.blog.jp/mk8dx.result-186",
+        "date": "2023-07-23",
+        "winners": [
+            "2229",
+            "4578",
+            "254e"
+        ]
+    },
+    {
+        "title": "第25回タッグ杯",
+        "title_shorter": "25タッグ",
+        "id": "b2025",
+        "host": "MKB",
+        "format": 2,
+        "number": 25,
+        "url": "http://japan-mk.blog.jp/mk8dx.result-183",
+        "date": "2023-07-02",
+        "winners": [
+            "2431",
+            "2f14"
+        ]
+    },
+    {
+        "title": "MKCentral SUMMIT 2v2 #12",
+        "title_shorter": "2v2 #12",
+        "id": "c2012",
+        "host": "MKCentral",
+        "format": 2,
+        "number": 12,
+        "url": "https://www.mariokartcentral.com/forums/index.php?threads/mkcentral-summit-2v2-12-6-10-6-11.19914/",
+        "date": "2023-06-11",
+        "winners": [
+            "2ac7",
+            "276f"
+        ]
+    },
+    {
+        "title": "第14回フォーマンセル杯",
+        "title_shorter": "14フォーマン",
+        "id": "b4014",
+        "host": "MKB",
+        "format": 4,
+        "number": 14,
+        "url": "http://japan-mk.blog.jp/mk8dx.result-180",
+        "date": "2023-06-03",
+        "winners": [
+            "32c6",
+            "3379",
+            "2431",
+            "23d2"
+        ]
+    },
+    {
+        "title": "MKCentral SUMMIT FFA #12",
+        "title_shorter": "FFA #12",
+        "id": "c1012",
+        "host": "MKCentral",
+        "format": 1,
+        "number": 12,
+        "url": "https://www.mariokartcentral.com/forums/index.php?threads/mkcentral-summit-ffa-12-5-27-5-28.19901/",
+        "date": "2023-05-28",
+        "winners": [
+            "2823"
+        ]
+    },
+    {
+        "title": "MKCentral SUMMIT 3v3 #11",
+        "title_shorter": "3v3 #11",
+        "id": "c3011",
+        "host": "MKCentral",
+        "format": 3,
+        "number": 11,
+        "url": "https://www.mariokartcentral.com/forums/index.php?threads/mkcentral-summit-3v3-11-5-13-5-14.19807/",
+        "date": "2023-05-14",
+        "winners": [
+            "26f4",
+            "32c6",
+            "20e5"
+        ]
+    },
+    {
+        "title": "6周年大規模個人杯",
+        "title_shorter": "6周年個人",
+        "id": "b1029",
+        "host": "MKB",
+        "format": 1,
+        "number": 29,
+        "url": "http://japan-mk.blog.jp/mk8dx.cup-82",
+        "date": "2023-04-30",
+        "winners": [
+            "33af"
+        ]
+    },
+    {
+        "title": "MKCentral SUMMIT 2v2 #11",
+        "title_shorter": "2v2 #11",
+        "id": "c2011",
+        "host": "MKCentral",
+        "format": 2,
+        "number": 11,
+        "url": "https://www.mariokartcentral.com/forums/index.php?threads/mkcentral-summit-2v2-11-4-15-4-16.19740/",
+        "date": "2023-04-16",
+        "winners": [
+            "42dc",
+            "2e6b"
+        ]
+    },
+    {
+        "title": "MKCentral SUMMIT FFA #11",
+        "title_shorter": "FFA #11",
+        "id": "c1011",
+        "host": "MKCentral",
+        "format": 1,
+        "number": 11,
+        "url": "https://www.mariokartcentral.com/forums/index.php?threads/mkcentral-summit-ffa-11-4-1-4-2.19685/",
+        "date": "2023-04-02",
+        "winners": [
+            "32c6"
+        ]
+    },
+    {
+        "title": "MKCentral SUMMIT 4v4 #5",
+        "title_shorter": "4v4 #5",
+        "id": "c4005",
+        "host": "MKCentral",
+        "format": 4,
+        "number": 5,
+        "url": "https://www.mariokartcentral.com/forums/index.php?threads/mkcentral-summit-4v4-5-2-25-2-26.19041/",
+        "date": "2023-02-06",
+        "winners": [
+            "39c1",
+            "3976",
+            "3246",
+            "4578"
+        ]
+    },
+    {
+        "title": "MKCentral SUMMIT 3v3 #10",
+        "title_shorter": "3v3 #10",
+        "id": "c3010",
+        "host": "MKCentral",
+        "format": 3,
+        "number": 10,
+        "url": "https://www.mariokartcentral.com/forums/index.php?threads/mkcentral-summit-3v3-10-2-11-2-12.18345/",
+        "date": "2023-02-12",
+        "winners": [
+            "2b56",
+            "42bc",
+            "3997"
+        ]
+    },
+    {
+        "title": "第28回個人杯",
+        "title_shorter": "28個人",
+        "id": "b1028",
+        "host": "MKB",
+        "format": 1,
+        "number": 28,
+        "url": "http://japan-mk.blog.jp/mk8dx.result-171",
+        "date": "2023-02-05",
+        "winners": [
+            "420b"
+        ]
+    },
+    {
+        "title": "MKCentral SUMMIT 2v2 #10",
+        "title_shorter": "2v2 #10",
+        "id": "c2010",
+        "host": "MKCentral",
+        "format": 2,
+        "number": 10,
+        "url": "https://www.mariokartcentral.com/forums/index.php?threads/mkcentral-summit-2v2-10-1-28-1-29.18230/",
+        "date": "2023-01-29",
+        "winners": [
+            "3a96",
+            "2e6b"
+        ]
+    },
+    {
+        "title": "MKCentral SUMMIT FFA #10",
+        "title_shorter": "FFA #10",
+        "id": "c1010",
+        "host": "MKCentral",
+        "format": 1,
+        "number": 10,
+        "url": "https://www.mariokartcentral.com/forums/index.php?threads/mkcentral-summit-ffa-10-1-14-1-15.18223/",
+        "date": "2023-01-15",
+        "winners": [
+            "4dda"
+        ]
     }
 ]
